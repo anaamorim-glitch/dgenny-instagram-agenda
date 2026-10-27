@@ -1,0 +1,40 @@
+name: Publicar Instagram dgenny
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 08:00 Brasília (posts)
+    - cron: "0 19 * * *"   # 16:00 Brasília (stories)
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "teste (não publica) ou publicar"
+        default: teste
+        type: choice
+        options: [teste, publicar]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publicar peça do dia
+        env:
+          COMPOSIO_API_KEY: ${{ secrets.COMPOSIO_API_KEY }}
+        run: python publicar.py ${{ github.event_name == 'schedule' && 'publicar' || inputs.modo }}
+      - name: Registrar publicação
+        if: always()
+        run: |
+          git config user.name "publicador-dgenny"
+          git config user.email "actions@users.noreply.github.com"
+          git add publicados.json
+          git diff --cached --quiet || (git commit -m "Registro de publicação" && git push)
