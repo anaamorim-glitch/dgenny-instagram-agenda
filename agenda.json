@@ -11,7 +11,7 @@
  {
   "n": "02",
   "data": "2026-10-29",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/02_10-29_story.jpg",
   "legenda": "",
@@ -29,7 +29,7 @@
  {
   "n": "04",
   "data": "2026-10-31",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/04_10-31_story.jpg",
   "legenda": "",
@@ -47,7 +47,7 @@
  {
   "n": "06",
   "data": "2026-11-02",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/06_11-02_story.jpg",
   "legenda": "",
@@ -65,7 +65,7 @@
  {
   "n": "08",
   "data": "2026-11-04",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/08_11-04_story.jpg",
   "legenda": "",
@@ -83,7 +83,7 @@
  {
   "n": "10",
   "data": "2026-11-06",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/10_11-06_story.jpg",
   "legenda": "",
@@ -101,7 +101,7 @@
  {
   "n": "12",
   "data": "2026-11-08",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/12_11-08_story.jpg",
   "legenda": "",
@@ -119,7 +119,7 @@
  {
   "n": "14",
   "data": "2026-11-10",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/14_11-10_story.jpg",
   "legenda": "",
@@ -137,7 +137,7 @@
  {
   "n": "16",
   "data": "2026-11-12",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/16_11-12_story.jpg",
   "legenda": "",
@@ -155,7 +155,7 @@
  {
   "n": "18",
   "data": "2026-11-14",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/18_11-14_story.jpg",
   "legenda": "",
@@ -173,7 +173,7 @@
  {
   "n": "20",
   "data": "2026-11-16",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/20_11-16_story.jpg",
   "legenda": "",
@@ -191,7 +191,7 @@
  {
   "n": "22",
   "data": "2026-11-18",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/22_11-18_story.jpg",
   "legenda": "",
@@ -209,7 +209,7 @@
  {
   "n": "24",
   "data": "2026-11-20",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/24_11-20_story.jpg",
   "legenda": "",
@@ -227,7 +227,7 @@
  {
   "n": "26",
   "data": "2026-11-22",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/26_11-22_story.jpg",
   "legenda": "",
@@ -245,7 +245,7 @@
  {
   "n": "28",
   "data": "2026-11-24",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/28_11-24_story.jpg",
   "legenda": "",
@@ -263,7 +263,7 @@
  {
   "n": "30",
   "data": "2026-11-26",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/30_11-26_story.jpg",
   "legenda": "",
@@ -281,7 +281,7 @@
  {
   "n": "32",
   "data": "2026-11-28",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/32_11-28_story.jpg",
   "legenda": "",
@@ -299,7 +299,7 @@
  {
   "n": "34",
   "data": "2026-11-30",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/34_11-30_story.jpg",
   "legenda": "",
@@ -317,7 +317,7 @@
  {
   "n": "36",
   "data": "2026-12-02",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/36_12-02_story.jpg",
   "legenda": "",
@@ -335,7 +335,7 @@
  {
   "n": "38",
   "data": "2026-12-04",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/38_12-04_story.jpg",
   "legenda": "",
@@ -353,7 +353,7 @@
  {
   "n": "40",
   "data": "2026-12-06",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/40_12-06_story.jpg",
   "legenda": "",
@@ -371,7 +371,7 @@
  {
   "n": "42",
   "data": "2026-12-08",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/42_12-08_story.jpg",
   "legenda": "",
@@ -389,7 +389,7 @@
  {
   "n": "44",
   "data": "2026-12-10",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/44_12-10_story.jpg",
   "legenda": "",
@@ -407,7 +407,7 @@
  {
   "n": "46",
   "data": "2026-12-12",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/46_12-12_story.jpg",
   "legenda": "",
@@ -425,7 +425,7 @@
  {
   "n": "48",
   "data": "2026-12-14",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/48_12-14_story.jpg",
   "legenda": "",
@@ -443,7 +443,7 @@
  {
   "n": "50",
   "data": "2026-12-16",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/50_12-16_story.jpg",
   "legenda": "",
@@ -461,7 +461,7 @@
  {
   "n": "52",
   "data": "2026-12-18",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/52_12-18_story.jpg",
   "legenda": "",
@@ -479,7 +479,7 @@
  {
   "n": "54",
   "data": "2026-12-20",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/54_12-20_story.jpg",
   "legenda": "",
@@ -497,7 +497,7 @@
  {
   "n": "56",
   "data": "2026-12-22",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/56_12-22_story.jpg",
   "legenda": "",
@@ -515,7 +515,7 @@
  {
   "n": "58",
   "data": "2026-12-24",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/58_12-24_story.jpg",
   "legenda": "",
@@ -533,7 +533,7 @@
  {
   "n": "60",
   "data": "2026-12-26",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/60_12-26_story.jpg",
   "legenda": "",
@@ -551,7 +551,7 @@
  {
   "n": "62",
   "data": "2026-12-28",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/62_12-28_story.jpg",
   "legenda": "",
@@ -569,7 +569,7 @@
  {
   "n": "64",
   "data": "2026-12-30",
-  "hora": "16:00",
+  "hora": "08:00",
   "tipo": "story",
   "imagem": "img/64_12-30_story.jpg",
   "legenda": "",
