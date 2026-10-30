@@ -19,5 +19,32 @@
   ],
   "legenda": "Cotação boa é a que você consegue comparar.\n\nA primeira resposta tem frete FOB, a segunda tem prazo de 15 dias e a terceira veio sem a condição de pagamento.\n\nSem colocar tudo na mesma base, a decisão vira chute. É essa comparação que a dgenny faz por você antes de chegar na sua mesa.\n\n#compras #cotacao #obra",
   "titulo": "Cotação boa não é a que chega primeiro."
+ },
+ {
+  "id": "2026-11-05-ig-carrossel",
+  "data": "2026-11-05",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-11-05_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "É assim que uma compra anda com a dgenny, sem planilha no meio.\n\nO comprador continua decidindo. A parte operacional fica com a IA.\n\nArrasta para o lado e vê cada etapa.\n\n#compras #suprimentos #construtora",
+  "titulo": "Do pedido da obra ao pedido de compra, em 6 passos"
+ },
+ {
+  "id": "2026-11-07-ig-reels",
+  "data": "2026-11-07",
+  "hora": "10:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-11-07_ig_reels_laryssa.mp4",
+  "capa": "nov-dez/midia/2026-11-07_ig_reels_laryssa_capa.jpg",
+  "legenda": "Pedido recebido, fornecedores encontrados, cotação pelo WhatsApp e propostas lado a lado com preço, prazo e condição de pagamento.\n\nA Laryssa mostra o caminho que a dgenny faz por você.\n\n#compras #whatsapp #obra",
+  "titulo": "A cotação andando de ponta a ponta."
  }
 ]
