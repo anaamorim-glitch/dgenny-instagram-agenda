@@ -1,0 +1,16 @@
+Do pedido ao ERP, sem a compra parar no caminho.
+
+Como a dgenny executa uma compra em 6 etapas:
+
+1. Pedido: chega do jeito que vier e vira uma lista pronta para cotar.
+2. Fornecedores: a dgenny encontra e aciona quem atende cada item.
+3. Cotação: dispara para todos e cobra quem não respondeu.
+4. Negociação: preço, prazo e condição negociados pelo WhatsApp.
+5. Equalização: propostas lado a lado, na mesma base.
+6. ERP: a compra aprovada vai direto para o sistema.
+
+Você define o que precisa. A execução fica com a dgenny.
+
+Arraste para ver as etapas e salve para mostrar ao seu time.
+
+#dgenny #Compras #ComprasB2B #Suprimentos #Construção #InteligenciaArtificial #IA #Procurement
