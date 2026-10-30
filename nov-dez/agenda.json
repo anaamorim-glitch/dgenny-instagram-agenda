@@ -1,0 +1,23 @@
+[
+ {
+  "id": "2026-11-03-ig-reels",
+  "data": "2026-11-03",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-11-03_ig_reels_rossoni.mp4",
+  "capa": "nov-dez/midia/2026-11-03_ig_reels_capa.jpg",
+  "legenda": "Durante anos, comprar foi sinônimo de fazer tudo na mão: cotar, cobrar fornecedor, comparar proposta, montar planilha.\n\nCom a inteligência artificial cuidando da parte operacional, o comprador ganha tempo para decidir e negociar melhor com o fornecedor.\n\nO Rossoni explica o que muda na rotina de quem compra. Se fizer sentido para você, segue a dgenny por aqui.\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "O comprador não precisa mais fazer tudo sozinho."
+ },
+ {
+  "id": "2026-11-04-ig-estatico",
+  "data": "2026-11-04",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-11-04_ig_cotacao.jpg"
+  ],
+  "legenda": "Cotação boa é a que você consegue comparar.\n\nA primeira resposta tem frete FOB, a segunda tem prazo de 15 dias e a terceira veio sem a condição de pagamento.\n\nSem colocar tudo na mesma base, a decisão vira chute. É essa comparação que a dgenny faz por você antes de chegar na sua mesa.\n\n#compras #cotacao #obra",
+  "titulo": "Cotação boa não é a que chega primeiro."
+ }
+]
