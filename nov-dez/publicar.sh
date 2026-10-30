@@ -7,10 +7,13 @@ git -C .. pull -q --rebase 2>/dev/null
 ITEM=$(python3 proximo.py)
 [ -z "$ITEM" ] && exit 0
 mkdir -p logs; LOG="logs/$(date +%F).log"
+# no máximo 3 tentativas com erro por dia; uma execução por vez
+[ "$(grep -c "^ERRO" "$LOG" 2>/dev/null)" -ge 3 ] && exit 0
+exec 9>/tmp/dgenny-publicar.lock; flock -n 9 || exit 0
 BASE="https://raw.githubusercontent.com/anaamorim-glitch/dgenny-instagram-agenda/main"
 {
 echo "== $(date '+%F %T') $ITEM"
-claude -p --permission-mode bypassPermissions "Publique no Instagram @dgenny.ai este item da agenda (JSON): $ITEM
+claude -p --permission-mode bypassPermissions < /dev/null "Publique no Instagram @dgenny.ai este item da agenda (JSON): $ITEM
 
 Regras:
 1. Use só o Composio MCP, conta instagram_soler-betted, ig_user_id 27715421478059942. Nunca publique no LinkedIn nem em outra conta.
