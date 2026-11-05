@@ -86,6 +86,15 @@
   "pausado": true
  },
  {
+  "id": "2026-11-14-ig-cliente",
+  "data": "2026-11-14",
+  "hora": "10:00",
+  "tipo": "post",
+  "legenda": "Quem olha de fora acha que compras é só achar o menor preço.\n\nQuem está dentro sabe: toda solicitação chega com um prazo. Se o material não chega a tempo, a obra para. E obra parada custa mais caro do que qualquer desconto.\n\nPor isso o comprador vive entre duas pressões: comprar bem e comprar a tempo. A dgenny tira o operacional do caminho para as duas caberem no mesmo dia.\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "Antes do preço, o comprador pensa no prazo da obra",
+  "imagem": "nov-dez/midia/2026-11-14_ig_cliente.jpg"
+ },
+ {
   "id": "2026-11-16-ig-case-lc-reels",
   "data": "2026-11-16",
   "hora": "12:00",
@@ -106,6 +115,24 @@
   "titulo": "Pedido no ERP, cotação no WhatsApp, mapa de volta no ERP"
  },
  {
+  "id": "2026-11-18-ig-cliente",
+  "data": "2026-11-18",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "legenda": "Pergunte a um comprador de construtora como é uma cotação do começo ao fim. A resposta costuma ter seis passos, e quatro deles são puro operacional: escolher fornecedor, mandar mensagem um por um, cobrar resposta e lançar tudo no ERP.\n\nO que sobra para a parte que dá resultado, comparar com calma e pedir condição melhor ao fornecedor, é o fim do dia e o prazo apertado.\n\nArrasta para o lado e vê onde o tempo vai embora.\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "Onde vai o dia de quem compra para obra",
+  "imagens": [
+   "nov-dez/midia/2026-11-18_ig_cliente_p1.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p2.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p3.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p4.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p5.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p6.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p7.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p8.jpg"
+  ]
+ },
+ {
   "id": "2026-11-19-ig-post-erp",
   "data": "2026-11-19",
   "hora": "12:00",
@@ -113,6 +140,15 @@
   "imagem": "nov-dez/midia/2026-11-19_ig_post_erp.jpg",
   "legenda": "Melhorar compras não começa trocando de ERP, refazendo cadastro ou mudando o processo da construtora.\n\nA dgenny se integra ao sistema que vocês já têm e assume a parte mais trabalhosa: a cotação com os fornecedores.\n\n#compras #suprimentos #construtora",
   "titulo": "Não precisa trocar de sistema"
+ },
+ {
+  "id": "2026-11-21-ig-cliente",
+  "data": "2026-11-21",
+  "hora": "10:00",
+  "tipo": "post",
+  "legenda": "Responde aqui nos comentários: de cada cinco fornecedores que você chama numa cotação, quantos mandam proposta sem precisar cobrar?\n\nQuem vive isso sabe que raramente são os cinco. O resto vira lembrete, ligação e \"conseguiu ver a cotação?\".\n\nÉ esse vai e vem que a dgenny assume pelo WhatsApp.\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "Você chama 5 fornecedores. Quantos respondem?",
+  "imagem": "nov-dez/midia/2026-11-21_ig_cliente.jpg"
  },
  {
   "id": "2026-11-23-ig-case-lc-reels",
@@ -135,6 +171,23 @@
   "titulo": "Ctrl+C, Ctrl+V do WhatsApp para o ERP"
  },
  {
+  "id": "2026-11-25-ig-cliente",
+  "data": "2026-11-25",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "legenda": "Gestor de compras de construtora costuma ser cobrado por cinco números: lead time, ordens de compra por semana, saving, taxa de resposta dos fornecedores e quantos fornecedores entram em cada cotação.\n\nO problema é que, com o time afogado em cotação manual, quase ninguém tem tempo de acompanhar.\n\nQual desses é o mais difícil de medir na sua operação?\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "5 números que todo líder de compras acompanha",
+  "imagens": [
+   "nov-dez/midia/2026-11-25_ig_cliente_p1.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p2.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p3.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p4.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p5.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p6.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p7.jpg"
+  ]
+ },
+ {
   "id": "2026-11-26-ig-post-erp",
   "data": "2026-11-26",
   "hora": "12:00",
@@ -153,6 +206,15 @@
   "legenda": "Pergunta que sempre aparece: o fornecedor responde quando quem pede o preço é uma IA?\n\nNa LC Engenharia aconteceram as duas coisas. Um vendedor deixava a IA para depois. Outro passou a responder a dgenny mais rápido do que respondia ao comprador, porque quem responde primeiro vende primeiro.\n\nE você, como acha que seus fornecedores reagiriam?\n\n#fornecedores #ia #comprasnaconstrucao",
   "titulo": "O fornecedor responde para a IA?",
   "pausado": true
+ },
+ {
+  "id": "2026-11-28-ig-cliente",
+  "data": "2026-11-28",
+  "hora": "10:00",
+  "tipo": "post",
+  "legenda": "Para a engenharia, compras é um sistema: ela pede e espera a ordem de compra aparecer. Quando demora, a pergunta vem rápido: \"minha demanda está parada?\".\n\nDo lado de compras, a solicitação não está parada. Está sendo cotada, cobrada e lançada, item por item.\n\nCom a dgenny fazendo a cotação, a resposta para a obra chega antes da pergunta.\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "A obra pergunta: cadê o meu material?",
+  "imagem": "nov-dez/midia/2026-11-28_ig_cliente.jpg"
  },
  {
   "id": "2026-11-30-ig-case-lc-reels",
@@ -175,6 +237,24 @@
   "titulo": "Seu processo de compras continua o mesmo. Só fica mais rápido."
  },
  {
+  "id": "2026-12-02-ig-cliente",
+  "data": "2026-12-02",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "legenda": "O comprador de construtora é o ponto de encontro de seis frentes: obra, quem aprova, fornecedores, financeiro, fiscal e almoxarifado. Cada uma com a sua pressa e a sua pergunta.\n\nQuando a cotação consome o dia, essas conversas viram correria. Quando a cotação anda sozinha, o comprador volta a ter tempo para alinhar com quem importa.\n\nArrasta para o lado. Faltou alguma área na sua rotina?\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "Compras conversa com 6 frentes ao mesmo tempo",
+  "imagens": [
+   "nov-dez/midia/2026-12-02_ig_cliente_p1.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p2.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p3.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p4.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p5.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p6.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p7.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p8.jpg"
+  ]
+ },
+ {
   "id": "2026-12-03-ig-post-erp",
   "data": "2026-12-03",
   "hora": "12:00",
@@ -195,6 +275,15 @@
   "pausado": true
  },
  {
+  "id": "2026-12-05-ig-cliente",
+  "data": "2026-12-05",
+  "hora": "10:00",
+  "tipo": "post",
+  "legenda": "Toda construtora tem lead time combinado com a obra. E toda construtora tem o pedido que chega fora dele.\n\nO urgente em si não é o problema. O problema é que ele para todo o resto: o comprador larga as outras cotações para correr atrás de preço.\n\nCom a dgenny disparando a cotação para vários fornecedores ao mesmo tempo, o urgente anda rápido e o resto não fica para trás.\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "Pedido urgente, fora do prazo. De novo.",
+  "imagem": "nov-dez/midia/2026-12-05_ig_cliente.jpg"
+ },
+ {
   "id": "2026-12-07-ig-case-lc-reels",
   "data": "2026-12-07",
   "hora": "12:00",
@@ -204,6 +293,15 @@
   "legenda": "\"A negociação tem que ficar com o comprador. Não tem como tirar do humano.\"\n\nConcordamos. A dgenny faz o operacional: pede preço, cobra resposta, lê proposta, monta o mapa. A decisão e a conversa final com o fornecedor continuam com quem compra.\n\n#compras #comprador #fornecedores",
   "titulo": "A IA não tira o comprador da mesa",
   "pausado": true
+ },
+ {
+  "id": "2026-12-09-ig-cliente",
+  "data": "2026-12-09",
+  "hora": "12:00",
+  "tipo": "post",
+  "legenda": "Três coisas que todo comprador sabe que deveria fazer e quase nunca sobra tempo:\n\n1. Revisar os preços tabelados antes que fiquem velhos.\n2. Trazer fornecedor novo para a disputa.\n3. Pedir condição melhor ao fornecedor no momento certo, como no fim do mês, quando ele precisa vender.\n\nNão é falta de vontade. É falta de tempo. A dgenny assume a cotação para essas três voltarem para a agenda.\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "O que o comprador deixa para depois",
+  "imagem": "nov-dez/midia/2026-12-09_ig_cliente.jpg"
  },
  {
   "id": "2026-12-11-ig-case-lc-reels",
