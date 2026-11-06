@@ -57,6 +57,22 @@
   "titulo": "A dgenny funciona com Sienge, TOTVS, Senior e UAU"
  },
  {
+  "id": "2026-11-11-ig-carrossel",
+  "data": "2026-11-11",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-11-11_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p6.jpg"
+  ],
+  "legenda": "Duas propostas de cimento CP-II com o mesmo preço por saco podem ter custos bem diferentes no fim.\n\nArrasta e confere os quatro pontos. Qual deles mais pega na sua obra?\n\n#compras #cotacao #suprimentos",
+  "titulo": "4 coisas que mudam o preço final de uma cotação"
+ },
+ {
   "id": "2026-11-12-ig-post-erp",
   "data": "2026-11-12",
   "hora": "12:00",
@@ -84,6 +100,17 @@
   "legenda": "A LC Engenharia toca 40 obras ao mesmo tempo em Mato Grosso do Sul.\n\nEm julho, o time de compras colocou a dgenny na operação. Em quatro meses:\n80 ordens de compra por semana viraram 180\nUma lista grande que levava um dia para equalizar hoje leva uma, duas horas\nE sobrou tempo para pedir condição melhor ao fornecedor\n\nArraste para ver os números. O case completo está no blog, link na bio.\n\n#comprasnaconstrucao #construcaocivil #fornecedores",
   "titulo": "Como a LC Engenharia dobrou o ritmo de compras em 40 obras",
   "pausado": true
+ },
+ {
+  "id": "2026-11-13-ig-preco",
+  "data": "2026-11-13",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-11-13_ig_preco.jpg"
+  ],
+  "legenda": "Responde antes de ler: A ou B?\n\nFornecedor A: R$ 31,90 o saco, com frete por sua conta (FOB).\nFornecedor B: R$ 33,50 o saco, entregue na obra (CIF).\n\nEm 200 sacos, um frete de R$ 480 leva o A para R$ 34,30 o saco. O B sai R$ 160 mais barato.\n\nPor isso a dgenny coloca todas as propostas na mesma base antes de chegarem na sua mesa.\n\n#compras #cotacao #construcaocivil",
+  "titulo": "Qual sai mais barato na obra?"
  },
  {
   "id": "2026-11-14-ig-cliente",
