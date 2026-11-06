@@ -322,6 +322,16 @@
   "pausado": true
  },
  {
+  "id": "2026-12-08-ig-reels-simone",
+  "data": "2026-12-08",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-08_ig_reels_simone.mp4",
+  "capa": "nov-dez/midia/2026-12-08_ig_reels_simone_capa.jpg",
+  "legenda": "Se o seu time de compras atende várias obras ao mesmo tempo, boa parte do dia vai embora em planilha, WhatsApp e mapa de cotação digitado à mão.\n\nA Simone explica como a dgenny assume esse operacional para o comprador analisar e negociar melhor com o fornecedor.\n\n#compras #construtora #suprimentos",
+  "titulo": "Quem compra para várias obras ao mesmo tempo."
+ },
+ {
   "id": "2026-12-09-ig-cliente",
   "data": "2026-12-09",
   "hora": "12:00",
@@ -340,5 +350,15 @@
   "legenda": "Todo time de compras tem esse receio antes de começar com IA: vai dar trabalho, vou ter que ensinar tudo.\n\nA compradora que mais usa a dgenny na LC Engenharia achou o mesmo. Depois de usar, a resposta foi outra.\n\n#comprasnaconstrucao #ia #construcaocivil",
   "titulo": "Achei que seria muito mais difícil",
   "pausado": true
+ },
+ {
+  "id": "2026-12-16-ig-reels-rossoni",
+  "data": "2026-12-16",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-16_ig_reels_rossoni.mp4",
+  "capa": "nov-dez/midia/2026-12-16_ig_reels_rossoni_capa.jpg",
+  "legenda": "Quem cota sempre com os mesmos três fornecedores negocia no escuro.\n\nO Rossoni explica por que ampliar o número de propostas muda a conversa com o fornecedor, e como a IA ajuda a fazer isso sem aumentar o trabalho.\n\nFaz sentido para você? Conta aqui nos comentários.\n\n#compras #fornecedores #suprimentos",
+  "titulo": "Mais fornecedores na mesa, mais poder de barganha."
  }
 ]
