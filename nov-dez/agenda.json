@@ -341,6 +341,32 @@
   "imagem": "nov-dez/midia/2026-12-09_ig_cliente.jpg"
  },
  {
+  "id": "2026-12-10-ig-post",
+  "data": "2026-12-10",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-10_ig_estatico_9-minutos.jpg"
+  ],
+  "legenda": "9 minutos até a primeira resposta do fornecedor. Esse é o número da ATR Incorporadora.\n\nO segredo não é pressão, é o canal: a cotação vai pelo WhatsApp, onde o fornecedor já está, sem portal e sem cadastro novo.\n\nA dgenny manda o pedido, cobra quem ficou para trás e organiza as propostas para o comprador decidir.\n\n#compras #fornecedores #construcaocivil",
+  "titulo": "9 minutos até a primeira resposta do fornecedor"
+ },
+ {
+  "id": "2026-12-11-ig-carrossel",
+  "data": "2026-12-11",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-11_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-11_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-11_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-11_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-11_ig_carrossel_p5.jpg"
+  ],
+  "legenda": "Numa cotação, cada fornecedor conversa só com você. Ninguém vê a proposta do outro.\n\nDo seu lado, a dgenny junta tudo numa tela só: quem respondeu, quem mandou contraproposta, quem ainda não respondeu, e o preço e o prazo de cada um.\n\nDisputa de verdade, sem expor ninguém. Vale para toda cotação, da reposição pequena à compra estratégica.\n\n#compras #fornecedores #cotacao",
+  "titulo": "Os fornecedores não se enxergam. Você enxerga todos."
+ },
+ {
   "id": "2026-12-11-ig-case-lc-reels",
   "data": "2026-12-11",
   "hora": "12:00",
@@ -350,6 +376,22 @@
   "legenda": "Todo time de compras tem esse receio antes de começar com IA: vai dar trabalho, vou ter que ensinar tudo.\n\nA compradora que mais usa a dgenny na LC Engenharia achou o mesmo. Depois de usar, a resposta foi outra.\n\n#comprasnaconstrucao #ia #construcaocivil",
   "titulo": "Achei que seria muito mais difícil",
   "pausado": true
+ },
+ {
+  "id": "2026-12-15-ig-carrossel",
+  "data": "2026-12-15",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-15_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p6.jpg"
+  ],
+  "legenda": "Quando a ATR Incorporadora contratou a dgenny, fez quatro pedidos: não aumentar a equipe de suprimentos, falar com o fornecedor onde ele já está, mapa de cotação em um clique e um time mais analítico.\n\nPasse para o lado e veja o que cada pedido virou em número.\n\nEm um ano, foram R$ 4,05 milhões negociados, com no máximo 3 compradoras trabalhando ao mesmo tempo.\n\n#compras #construcaocivil #suprimentos",
+  "titulo": "Case ATR: o que pediu e o que recebeu"
  },
  {
   "id": "2026-12-16-ig-reels-rossoni",
@@ -362,6 +404,17 @@
   "titulo": "Mais fornecedores na mesa, mais poder de barganha."
  },
  {
+  "id": "2026-12-17-ig-post",
+  "data": "2026-12-17",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-17_ig_estatico_imposto.jpg"
+  ],
+  "legenda": "Qual sai mais barato?\n\nA primeira proposta tem o imposto dentro do preço: R$ 48,00 o metro.\nA segunda parece mais barata, R$ 44,90, mas o IPI de 10% vem por fora. Na conta final, dá R$ 49,39.\n\nQuando cada fornecedor apresenta o preço de um jeito, a comparação só é justa na mesma base: imposto, frete e prazo. É assim que a dgenny monta o mapa de cotação.\n\n#compras #cotacao #construcaocivil",
+  "titulo": "O imposto está no preço?"
+ },
+ {
   "id": "2026-12-18-ig-reels-tierre",
   "data": "2026-12-18",
   "hora": "12:00",
@@ -372,6 +425,23 @@
   "titulo": "Quanto tempo o seu time gasta em cotação?"
  },
  {
+  "id": "2026-12-21-ig-carrossel",
+  "data": "2026-12-21",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-21_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "Fim de ano é quando o fornecedor fecha, a transportadora reduz e a obra continua.\n\nAntes do recesso, combine por escrito com cada fornecedor:\n1. Último dia para pedir com entrega neste ano.\n2. Último faturamento.\n3. Data de volta.\n4. Entrega programada para as etapas de janeiro.\n5. Quem atende em caso de urgência.\n\nSalve e mande para o time. O checklist completo está no blog da dgenny.\n\n#compras #construcaocivil #suprimentos",
+  "titulo": "O que fechar com o fornecedor antes do recesso"
+ },
+ {
   "id": "2026-12-22-ig-reels-rossoni",
   "data": "2026-12-22",
   "hora": "12:00",
@@ -380,6 +450,108 @@
   "capa": "nov-dez/midia/2026-12-22_ig_reels_rossoni_capa.jpg",
   "legenda": "Achar fornecedor novo ainda é um trabalho manual: Google, telefone e conversa com cada empresa.\n\nO Rossoni explica como a IA ajuda o time de compras a encontrar fornecedores, conversar com eles e receber propostas de empresas que você nem conhecia.\n\nTem algum item para o qual você não acha fornecedor? Conta aqui nos comentários.\n\n#compras #fornecedores #suprimentos",
   "titulo": "Fornecedor novo sem passar o dia no Google."
+ },
+ {
+  "id": "2026-12-23-ig-post",
+  "data": "2026-12-23",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-23_ig_boas-festas.jpg"
+  ],
+  "legenda": "Boas festas!\n\nObrigado a cada comprador, fornecedor e obra que andou com a gente em 2026. Que o próximo ano tenha menos urgência e mais tempo para decidir.\n\nEquipe dgenny\n\n#boasfestas #compras #construcaocivil",
+  "titulo": "Boas festas"
+ },
+ {
+  "id": "2026-12-28-ig-carrossel",
+  "data": "2026-12-28",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-28_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p7.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p8.jpg"
+  ],
+  "legenda": "Um ano de ATR Incorporadora com a dgenny, em números.\n\nR$ 4,05 milhões em compras negociadas. 2.524 horas de trabalho poupadas. R$ 1,2 milhão de saving validado, item a item. 92,5% das cotações com disputa real entre fornecedores.\n\nTudo com no máximo 3 compradoras trabalhando ao mesmo tempo. Passe para o lado.\n\n#compras #construcaocivil #suprimentos",
+  "titulo": "ATR: um ano em números"
+ },
+ {
+  "id": "2026-12-29-ig-carrossel",
+  "data": "2026-12-29",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-29_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "Plano de compras 2027 em 5 perguntas:\n\n1. O que vou comprar, e quando?\n2. O que pesa mais no custo?\n3. Com quais fornecedores eu conto?\n4. O que fecho em contrato?\n5. Como vou medir?\n\nResponda as cinco antes de janeiro e o ano começa com menos urgência. Salve para revisar com o time.\n\n#compras #planejamento #construcaocivil",
+  "titulo": "Plano de compras 2027 em 5 perguntas"
+ },
+ {
+  "id": "2026-12-30-ig-post",
+  "data": "2026-12-30",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-30_ig_estatico_2027.jpg"
+  ],
+  "legenda": "Que 2027 venha com menos urgência e mais tempo para decidir.\n\nFeliz ano novo, da equipe dgenny.\n\n#feliz2027 #compras #construcaocivil",
+  "titulo": "Feliz 2027"
+ },
+ {
+  "id": "2027-01-05-ig-carrossel",
+  "data": "2027-01-05",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2027-01-05_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "2027 começou e a reforma tributária chegou para quem compra.\n\nA CBS entra no lugar do PIS e da Cofins. O imposto passa a vir por fora do preço, quase toda compra gera crédito e o regime do fornecedor começa a pesar na comparação.\n\nPasse para o lado e salve. O guia completo está no blog da dgenny.\n\n#reformatributaria #compras #construcaocivil",
+  "titulo": "Reforma tributária: o que muda para quem compra em 2027"
+ },
+ {
+  "id": "2027-01-06-ig-post",
+  "data": "2027-01-06",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2027-01-06_ig_estatico_2417.jpg"
+  ],
+  "legenda": "2.417 propostas de fornecedor que ninguém precisou digitar.\n\nNa ATR Incorporadora, 79% delas foram lidas direto da conversa no WhatsApp e equalizadas item a item pela IA da dgenny.\n\nO tempo que ia para a digitação agora vai para a análise.\n\n#compras #fornecedores #construcaocivil",
+  "titulo": "2.417 propostas que ninguém precisou digitar"
+ },
+ {
+  "id": "2027-01-07-ig-carrossel",
+  "data": "2027-01-07",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2027-01-07_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "Checklist de janeiro do comprador:\n\n1. O que ficou do recesso.\n2. Preços tabelados.\n3. Lead time.\n4. Cronograma das obras.\n5. Fornecedor novo.\n\nPasse para o lado, salve e comece o ano decidindo. A cotação fica com a dgenny.\n\n#compras #construcaocivil #suprimentos",
+  "titulo": "Checklist de janeiro do comprador"
  },
  {
   "id": "2027-01-08-ig-reels-rossoni",
