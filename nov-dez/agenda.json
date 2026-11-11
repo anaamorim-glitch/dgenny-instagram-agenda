@@ -169,17 +169,8 @@
     "titulo": "Não precisa trocar de sistema"
   },
   {
-    "id": "2026-11-21-ig-cliente",
-    "data": "2026-11-21",
-    "hora": "12:00",
-    "tipo": "post",
-    "legenda": "Responde aqui nos comentários: de cada cinco fornecedores que você chama numa cotação, quantos mandam proposta sem precisar cobrar?\n\nQuem vive isso sabe que raramente são os cinco. O resto vira lembrete, ligação e \"conseguiu ver a cotação?\".\n\nÉ esse vai e vem que a dgenny assume pelo WhatsApp.\n\n#compras #suprimentos #construcaocivil",
-    "titulo": "Você chama 5 fornecedores. Quantos respondem?",
-    "imagem": "nov-dez/midia/2026-11-21_ig_cliente.jpg"
-  },
-  {
     "id": "2026-11-22-ig-cbic-anuncio",
-    "data": "2026-11-22",
+    "data": "2026-11-21",
     "hora": "12:00",
     "tipo": "post",
     "imagem": "nov-dez/midia/2026-11-22_ig_cbic_anuncio.jpg",
@@ -188,12 +179,21 @@
   },
   {
     "id": "2026-11-22-ig-cbic-story",
-    "data": "2026-11-22",
+    "data": "2026-11-21",
     "hora": "12:05",
     "tipo": "story",
     "imagem": "nov-dez/midia/2026-11-22_ig_cbic_story.jpg",
     "legenda": "",
     "titulo": "Story: a dgenny estará presente no Conexão CBIC, 1º/12, Brasília"
+  },
+  {
+    "id": "2026-11-21-ig-cliente",
+    "data": "2026-11-22",
+    "hora": "12:00",
+    "tipo": "post",
+    "legenda": "Responde aqui nos comentários: de cada cinco fornecedores que você chama numa cotação, quantos mandam proposta sem precisar cobrar?\n\nQuem vive isso sabe que raramente são os cinco. O resto vira lembrete, ligação e \"conseguiu ver a cotação?\".\n\nÉ esse vai e vem que a dgenny assume pelo WhatsApp.\n\n#compras #suprimentos #construcaocivil",
+    "titulo": "Você chama 5 fornecedores. Quantos respondem?",
+    "imagem": "nov-dez/midia/2026-11-21_ig_cliente.jpg"
   },
   {
     "id": "2026-11-23-ig-case-lc-reels",
@@ -253,22 +253,22 @@
     "pausado": true
   },
   {
-    "id": "2026-11-28-ig-cliente",
-    "data": "2026-11-28",
-    "hora": "12:00",
-    "tipo": "post",
-    "legenda": "Para a engenharia, compras é um sistema: ela pede e espera a ordem de compra aparecer. Quando demora, a pergunta vem rápido: \"minha demanda está parada?\".\n\nDo lado de compras, a solicitação não está parada. Está sendo cotada, cobrada e lançada, item por item.\n\nCom a dgenny fazendo a cotação, a resposta para a obra chega antes da pergunta.\n\n#compras #suprimentos #construcaocivil",
-    "titulo": "A obra pergunta: cadê o meu material?",
-    "imagem": "nov-dez/midia/2026-11-28_ig_cliente.jpg"
-  },
-  {
     "id": "2026-11-29-ig-cbic-ia-compras",
-    "data": "2026-11-29",
+    "data": "2026-11-28",
     "hora": "12:00",
     "tipo": "post",
     "imagem": "nov-dez/midia/2026-11-29_ig_cbic_ia_compras.jpg",
     "legenda": "IA e inovação estão entre os temas do Conexão CBIC deste ano. Para a gente, é assunto do dia a dia.\n\nNa prática, IA em compras é uma assistente para a equipe de suprimentos: ela pede cotação aos fornecedores pelo WhatsApp e monta o mapa de cotação, e o comprador fica com tempo para negociar com o fornecedor e decidir.\n\nNo dia 1º de dezembro, estaremos presentes no Conexão CBIC, em Brasília. Vai estar lá? Manda um direct.\n\n#ConexaoCBIC #construcaocivil #compras",
     "titulo": "IA na construção começa pelas compras. 1º de dezembro, no Conexão CBIC"
+  },
+  {
+    "id": "2026-11-28-ig-cliente",
+    "data": "2026-11-29",
+    "hora": "12:00",
+    "tipo": "post",
+    "legenda": "Para a engenharia, compras é um sistema: ela pede e espera a ordem de compra aparecer. Quando demora, a pergunta vem rápido: \"minha demanda está parada?\".\n\nDo lado de compras, a solicitação não está parada. Está sendo cotada, cobrada e lançada, item por item.\n\nCom a dgenny fazendo a cotação, a resposta para a obra chega antes da pergunta.\n\n#compras #suprimentos #construcaocivil",
+    "titulo": "A obra pergunta: cadê o meu material?",
+    "imagem": "nov-dez/midia/2026-11-28_ig_cliente.jpg"
   },
   {
     "id": "2026-11-30-ig-case-lc-reels",
