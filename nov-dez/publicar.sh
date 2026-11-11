@@ -16,11 +16,12 @@ echo "== $(date '+%F %T') $ITEM"
 claude -p --permission-mode bypassPermissions < /dev/null "Publique no Instagram @dgenny.ai este item da agenda (JSON): $ITEM
 
 Regras:
-0. ANTES de qualquer coisa, evite post duplicado: liste as últimas 10 mídias do @dgenny.ai (INSTAGRAM_GET_IG_USER_MEDIA ou equivalente, com caption e timestamp). Se alguma das últimas 48 h tiver a legenda começando igual à deste item (mesmas primeiras 60 letras), NÃO publique: só registre o id em publicados.json com o media_id encontrado, faça o commit/push do passo 5 e termine com PUBLICADO_OK <id> (ja estava no ar).
+0. (Não vale para tipo story, que não tem legenda.) ANTES de qualquer coisa, evite post duplicado: liste as últimas 10 mídias do @dgenny.ai (INSTAGRAM_GET_IG_USER_MEDIA ou equivalente, com caption e timestamp). Se alguma das últimas 48 h tiver a legenda começando igual à deste item (mesmas primeiras 60 letras), NÃO publique: só registre o id em publicados.json com o media_id encontrado, faça o commit/push do passo 5 e termine com PUBLICADO_OK <id> (ja estava no ar).
 1. Use só o Composio MCP, conta instagram_soler-betted, ig_user_id 27715421478059942. Nunca publique no LinkedIn nem em outra conta.
 2. URLs públicas dos arquivos: $BASE/<caminho do arquivo>.
 3. tipo post: INSTAGRAM_POST_IG_USER_MEDIA com image_url, caption = legenda, alt_text = titulo.
    tipo carrossel: um container por imagem (image_url, is_carousel_item true, alt_text = titulo), depois um container media_type CAROUSEL com children = ids na ordem e caption = legenda.
+   tipo story: INSTAGRAM_POST_IG_USER_MEDIA com image_url e media_type STORIES, sem caption.
    tipo reels: INSTAGRAM_POST_IG_USER_MEDIA com video_url, media_type REELS, cover_url = capa, share_to_feed true, caption = legenda.
 4. Depois INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH com o creation_id (reels: max_wait_seconds 300).
 5. Se publicou, acrescente {\"id\",\"media_id\",\"publicado_em\"} em publicados.json (nesta pasta) e rode: git add publicados.json && git commit -m 'Publicado <id>' && git push.
