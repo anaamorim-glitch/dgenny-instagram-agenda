@@ -1,611 +1,654 @@
 [
-  {
-    "id": "2026-11-03-ig-reels",
-    "data": "2026-11-03",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-11-03_ig_reels_rossoni.mp4",
-    "capa": "nov-dez/midia/2026-11-03_ig_reels_capa.jpg",
-    "legenda": "Durante anos, comprar foi sinônimo de fazer tudo na mão: cotar, cobrar fornecedor, comparar proposta, montar planilha.\n\nCom a inteligência artificial cuidando da parte operacional, o comprador ganha tempo para decidir e negociar melhor com o fornecedor.\n\nO Rossoni explica o que muda na rotina de quem compra. Se fizer sentido para você, segue a dgenny por aqui.\n\n#compras #suprimentos #construcaocivil",
-    "titulo": "O comprador não precisa mais fazer tudo sozinho."
-  },
-  {
-    "id": "2026-11-04-ig-estatico",
-    "data": "2026-11-04",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagens": [
-      "nov-dez/midia/2026-11-04_ig_cotacao.jpg"
-    ],
-    "legenda": "Cotação boa é a que você consegue comparar.\n\nA primeira resposta tem frete FOB, a segunda tem prazo de 15 dias e a terceira veio sem a condição de pagamento.\n\nSem colocar tudo na mesma base, a decisão vira chute. É essa comparação que a dgenny faz por você antes de chegar na sua mesa.\n\n#compras #cotacao #obra",
-    "titulo": "Cotação boa não é a que chega primeiro."
-  },
-  {
-    "id": "2026-11-05-ig-carrossel",
-    "data": "2026-11-05",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2026-11-05_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2026-11-05_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2026-11-05_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2026-11-05_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2026-11-05_ig_carrossel_p5.jpg",
-      "nov-dez/midia/2026-11-05_ig_carrossel_p6.jpg",
-      "nov-dez/midia/2026-11-05_ig_carrossel_p7.jpg"
-    ],
-    "legenda": "É assim que uma compra anda com a dgenny, sem planilha no meio.\n\nO comprador continua decidindo. A parte operacional fica com a IA.\n\nArrasta para o lado e vê cada etapa.\n\n#compras #suprimentos #construtora",
-    "titulo": "Do pedido da obra ao pedido de compra, em 6 passos"
-  },
-  {
-    "id": "2026-11-06-ig-reels",
-    "data": "2026-11-06",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-11-07_ig_reels_laryssa.mp4",
-    "capa": "nov-dez/midia/2026-11-07_ig_reels_laryssa_capa.jpg",
-    "legenda": "Pedido recebido, fornecedores encontrados, cotação pelo WhatsApp e propostas lado a lado com preço, prazo e condição de pagamento.\n\nA Laryssa mostra o caminho que a dgenny faz por você.\n\n#compras #whatsapp #obra",
-    "titulo": "A cotação andando de ponta a ponta."
-  },
-  {
-    "id": "2026-11-10-ig-post-erp",
-    "data": "2026-11-10",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-10_ig_post_erp.jpg",
-    "legenda": "Pergunta que a gente mais ouve: \"funciona com o nosso ERP?\"\n\nSe a sua construtora usa Sienge, TOTVS, Senior ou UAU, funciona. A solicitação continua saindo do ERP. A dgenny pede cotação aos fornecedores pelo WhatsApp, monta o mapa e o resultado volta para o sistema.\n\nNinguém precisa trocar de ferramenta para cotar mais rápido.\n\n#compras #suprimentos #construtora",
-    "titulo": "A dgenny funciona com Sienge, TOTVS, Senior e UAU"
-  },
-  {
-    "id": "2026-11-11-ig-carrossel",
-    "data": "2026-11-11",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2026-11-11_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2026-11-11_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2026-11-11_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2026-11-11_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2026-11-11_ig_carrossel_p5.jpg",
-      "nov-dez/midia/2026-11-11_ig_carrossel_p6.jpg"
-    ],
-    "legenda": "Duas propostas de cimento CP-II com o mesmo preço por saco podem ter custos bem diferentes no fim.\n\nArrasta e confere os quatro pontos. Qual deles mais pega na sua obra?\n\n#compras #cotacao #suprimentos",
-    "titulo": "4 coisas que mudam o preço final de uma cotação"
-  },
-  {
-    "id": "2026-11-12-ig-visita-oad",
-    "data": "2026-11-12",
-    "hora": "07:40",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-12_ig_visita_oad.jpg",
-    "legenda": "Visita ao Grupo OAD.\n\nFomos até o Grupo OAD para estar com o time e mostrar as novidades da dgenny.\n\nÉ nessas visitas que a gente entende de perto o dia a dia de quem compra e leva para a plataforma o que faz diferença na operação.\n\nObrigado pela recepção, Grupo OAD! 💜\n\n#dgenny #suprimentos #compras",
-    "titulo": "Time da dgenny em visita ao Grupo OAD"
-  },
-  {
-    "id": "2026-11-12-ig-post-erp",
-    "data": "2026-11-12",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-12_ig_post_erp.jpg",
-    "legenda": "O ERP guarda o pedido, a nota e o cadastro do fornecedor. Mas a cotação mesmo acontece em outro lugar: no WhatsApp, numa conversa por fornecedor.\n\nÉ essa parte que a dgenny assume. Ela manda o pedido de cotação, cobra quem ficou para trás e organiza as propostas para o comprador decidir.\n\n#dgenny #compras #suprimentos #construtora",
-    "titulo": "Seu ERP não manda WhatsApp para fornecedor"
-  },
-  {
-    "id": "2026-11-13-ig-visita-gpc",
-    "data": "2026-11-13",
-    "hora": "07:40",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-13_ig_visita_gpc.jpg",
-    "legenda": "Visita à GPC Empreendimentos.\n\nFomos até a GPC, cliente da dgenny desde o início do ano, para apresentar as melhorias da integração com o Sienge.\n\nÉ nessas conversas que a gente vê de perto a rotina de quem compra e ajusta a plataforma para que a cotação e o ERP andem juntos, sem retrabalho.\n\nObrigado pela recepção, GPC! 💜\n\n#dgenny #suprimentos #compras #sienge",
-    "titulo": "Time da dgenny em visita à GPC Empreendimentos"
-  },
-  {
-    "id": "2026-11-13-ig-case-lc-carrossel",
-    "data": "2026-11-13",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p1.jpg",
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p2.jpg",
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p3.jpg",
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p4.jpg",
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p5.jpg",
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p6.jpg",
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p7.jpg",
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p8.jpg",
-      "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p9.jpg"
-    ],
-    "legenda": "A LC Engenharia toca 40 obras ao mesmo tempo em Mato Grosso do Sul.\n\nEm julho, o time de compras colocou a dgenny na operação. Em quatro meses:\n80 ordens de compra por semana viraram 180\nUma lista grande que levava um dia para equalizar hoje leva uma, duas horas\nE sobrou tempo para pedir condição melhor ao fornecedor\n\nArraste para ver os números. O case completo está no blog, link na bio.\n\n#dgenny #comprasnaconstrucao #construcaocivil #fornecedores",
-    "titulo": "Como a LC Engenharia dobrou o ritmo de compras em 40 obras",
-    "pausado": true
-  },
-  {
-    "id": "2026-11-13-ig-preco",
-    "data": "2026-11-13",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagens": [
-      "nov-dez/midia/2026-11-13_ig_preco.jpg"
-    ],
-    "legenda": "Responde antes de ler: A ou B?\n\nFornecedor A: R$ 31,90 o saco, com frete por sua conta (FOB).\nFornecedor B: R$ 33,50 o saco, entregue na obra (CIF).\n\nEm 200 sacos, um frete de R$ 480 leva o A para R$ 34,30 o saco. O B sai R$ 160 mais barato.\n\nPor isso a dgenny coloca todas as propostas na mesma base antes de chegarem na sua mesa.\n\n#dgenny #compras #cotacao #construcaocivil",
-    "titulo": "Qual sai mais barato na obra?"
-  },
-  {
-    "id": "2026-11-14-ig-cliente",
-    "data": "2026-11-14",
-    "hora": "12:00",
-    "tipo": "post",
-    "legenda": "Quem olha de fora acha que compras é só achar o menor preço.\n\nQuem está dentro sabe: toda solicitação chega com um prazo. Se o material não chega a tempo, a obra para. E obra parada custa mais caro do que qualquer desconto.\n\nPor isso o comprador vive entre duas pressões: comprar bem e comprar a tempo. A dgenny tira o operacional do caminho para as duas caberem no mesmo dia.\n\n#dgenny #compras #suprimentos #construcaocivil",
-    "titulo": "Antes do preço, o comprador pensa no prazo da obra",
-    "imagem": "nov-dez/midia/2026-11-14_ig_cliente.jpg"
-  },
-  {
-    "id": "2026-11-16-ig-case-lc-reels",
-    "data": "2026-11-16",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-11-16_ig_reels_case-lc-ordens-de-compra.mp4",
-    "capa": "nov-dez/midia/2026-11-16_ig_reels_case-lc-ordens-de-compra_capa.jpg",
-    "legenda": "Antes da dgenny, o time de compras da LC Engenharia gerava cerca de 80 ordens de compra por semana.\n\nNa primeira semana com a dgenny, foram 150. Hoje são entre 160 e 180, em 40 obras espalhadas por Mato Grosso do Sul.\n\nO case completo está no nosso blog. Link na bio.\n\n#dgenny #comprasnaconstrucao #construcaocivil #fornecedores",
-    "titulo": "De 80 para 180 ordens de compra por semana",
-    "pausado": true
-  },
-  {
-    "id": "2026-11-17-ig-post-erp",
-    "data": "2026-11-17",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-17_ig_post_erp.jpg",
-    "legenda": "Toda compra de obra faz esse caminho: o pedido nasce no ERP, a cotação roda no WhatsApp e o resultado precisa voltar para o ERP.\n\nHoje quem leva de um lado para o outro é o comprador, copiando e colando. Com a dgenny, esse meio do caminho acontece sozinho.\n\n#dgenny #compras #suprimentos #construtora",
-    "titulo": "Pedido no ERP, cotação no WhatsApp, mapa de volta no ERP"
-  },
-  {
-    "id": "2026-11-18-ig-cliente",
-    "data": "2026-11-18",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "legenda": "Pergunte a um comprador de construtora como é uma cotação do começo ao fim. A resposta costuma ter seis passos, e quatro deles são puro operacional: escolher fornecedor, mandar mensagem um por um, cobrar resposta e lançar tudo no ERP.\n\nO que sobra para a parte que dá resultado, comparar com calma e pedir condição melhor ao fornecedor, é o fim do dia e o prazo apertado.\n\nArrasta para o lado e vê onde o tempo vai embora.\n\n#dgenny #compras #suprimentos #construcaocivil",
-    "titulo": "Onde vai o dia de quem compra para obra",
-    "imagens": [
-      "nov-dez/midia/2026-11-18_ig_cliente_p1.jpg",
-      "nov-dez/midia/2026-11-18_ig_cliente_p2.jpg",
-      "nov-dez/midia/2026-11-18_ig_cliente_p3.jpg",
-      "nov-dez/midia/2026-11-18_ig_cliente_p4.jpg",
-      "nov-dez/midia/2026-11-18_ig_cliente_p5.jpg",
-      "nov-dez/midia/2026-11-18_ig_cliente_p6.jpg",
-      "nov-dez/midia/2026-11-18_ig_cliente_p7.jpg",
-      "nov-dez/midia/2026-11-18_ig_cliente_p8.jpg"
-    ]
-  },
-  {
-    "id": "2026-11-19-ig-post-erp",
-    "data": "2026-11-19",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-19_ig_post_erp.jpg",
-    "legenda": "Melhorar compras não começa trocando de ERP, refazendo cadastro ou mudando o processo da construtora.\n\nA dgenny se integra ao sistema que vocês já têm e assume a parte mais trabalhosa: a cotação com os fornecedores.\n\n#dgenny #compras #suprimentos #construtora",
-    "titulo": "Não precisa trocar de sistema"
-  },
-  {
-    "id": "2026-11-21-ig-cliente",
-    "data": "2026-11-21",
-    "hora": "12:00",
-    "tipo": "post",
-    "legenda": "Responde aqui nos comentários: de cada cinco fornecedores que você chama numa cotação, quantos mandam proposta sem precisar cobrar?\n\nQuem vive isso sabe que raramente são os cinco. O resto vira lembrete, ligação e \"conseguiu ver a cotação?\".\n\nÉ esse vai e vem que a dgenny assume pelo WhatsApp.\n\n#dgenny #compras #suprimentos #construcaocivil",
-    "titulo": "Você chama 5 fornecedores. Quantos respondem?",
-    "imagem": "nov-dez/midia/2026-11-21_ig_cliente.jpg"
-  },
-  {
-    "id": "2026-11-22-ig-cbic-anuncio",
-    "data": "2026-11-22",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-22_ig_cbic_anuncio.jpg",
-    "legenda": "No dia 1º de dezembro a dgenny estará presente no Conexão CBIC 2026, em Brasília.\n\nO encontro da Câmara Brasileira da Indústria da Construção reúne empresários, executivos e lideranças do setor para discutir economia, crédito imobiliário, ESG e o papel da IA e da inovação na construção.\n\nSe você também vai, chama a gente no direct para marcarmos uma conversa por lá.\n\nWindsor Plaza Hotel, Brasília\nTerça, 1º/12, das 13h30 às 17h30\n\n#dgenny #ConexaoCBIC #construcaocivil #suprimentos",
-    "titulo": "1º de dezembro: a dgenny estará presente no Conexão CBIC, em Brasília"
-  },
-  {
-    "id": "2026-11-22-ig-cbic-story",
-    "data": "2026-11-22",
-    "hora": "12:05",
-    "tipo": "story",
-    "imagem": "nov-dez/midia/2026-11-22_ig_cbic_story.jpg",
-    "legenda": "",
-    "titulo": "Story: a dgenny estará presente no Conexão CBIC, 1º/12, Brasília"
-  },
-  {
-    "id": "2026-11-23-ig-case-lc-reels",
-    "data": "2026-11-23",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-11-23_ig_reels_case-lc-250-vezes.mp4",
-    "capa": "nov-dez/midia/2026-11-23_ig_reels_case-lc-250-vezes_capa.jpg",
-    "legenda": "Uma lista de 50 itens. Cinco fornecedores. 250 lançamentos manuais no sistema.\n\nEra assim que o time da LC Engenharia montava cada mapa de cotação. Hoje a dgenny lê as propostas e monta o mapa sozinha, direto no Sienge.\n\nO comprador volta a fazer o que importa: escolher e pedir condição melhor ao fornecedor.\n\n#dgenny #comprasnaconstrucao #mapadecotacao #sienge",
-    "titulo": "250 vezes digitando a mesma coisa",
-    "pausado": true
-  },
-  {
-    "id": "2026-11-24-ig-post-erp",
-    "data": "2026-11-24",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-24_ig_post_erp.jpg",
-    "legenda": "Copia o preço do WhatsApp. Cola na planilha. Confere. Lança no ERP. Repete para cada fornecedor e cada item.\n\nSe essa é a rotina do seu time de compras, tem trabalho demais e controle de menos. A dgenny recebe as propostas, monta o mapa de cotação e manda o resultado para o ERP.\n\n#dgenny #compras #suprimentos #construtora",
-    "titulo": "Ctrl+C, Ctrl+V do WhatsApp para o ERP"
-  },
-  {
-    "id": "2026-11-25-ig-cliente",
-    "data": "2026-11-25",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "legenda": "Gestor de compras de construtora costuma ser cobrado por cinco números: lead time, ordens de compra por semana, saving, taxa de resposta dos fornecedores e quantos fornecedores entram em cada cotação.\n\nO problema é que, com o time afogado em cotação manual, quase ninguém tem tempo de acompanhar.\n\nQual desses é o mais difícil de medir na sua operação?\n\n#dgenny #compras #suprimentos #construcaocivil",
-    "titulo": "5 números que todo líder de compras acompanha",
-    "imagens": [
-      "nov-dez/midia/2026-11-25_ig_cliente_p1.jpg",
-      "nov-dez/midia/2026-11-25_ig_cliente_p2.jpg",
-      "nov-dez/midia/2026-11-25_ig_cliente_p3.jpg",
-      "nov-dez/midia/2026-11-25_ig_cliente_p4.jpg",
-      "nov-dez/midia/2026-11-25_ig_cliente_p5.jpg",
-      "nov-dez/midia/2026-11-25_ig_cliente_p6.jpg",
-      "nov-dez/midia/2026-11-25_ig_cliente_p7.jpg"
-    ]
-  },
-  {
-    "id": "2026-11-26-ig-post-erp",
-    "data": "2026-11-26",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-26_ig_post_erp.jpg",
-    "legenda": "Muita ferramenta diz que integra e, no fim, entrega um arquivo para importar. Aí alguém do time confere tudo e lança de novo.\n\nNa dgenny, a cotação sai do ERP, passa pelos fornecedores no WhatsApp e volta pronta. Funciona com Sienge, TOTVS, Senior e UAU.\n\n#dgenny #compras #suprimentos #construtora",
-    "titulo": "Integrar com ERP não é exportar planilha"
-  },
-  {
-    "id": "2026-11-27-ig-case-lc-reels",
-    "data": "2026-11-27",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-11-27_ig_reels_case-lc-fornecedor-e-a-ia.mp4",
-    "capa": "nov-dez/midia/2026-11-27_ig_reels_case-lc-fornecedor-e-a-ia_capa.jpg",
-    "legenda": "Pergunta que sempre aparece: o fornecedor responde quando quem pede o preço é uma IA?\n\nNa LC Engenharia aconteceram as duas coisas. Um vendedor deixava a IA para depois. Outro passou a responder a dgenny mais rápido do que respondia ao comprador, porque quem responde primeiro vende primeiro.\n\nE você, como acha que seus fornecedores reagiriam?\n\n#dgenny #fornecedores #ia #comprasnaconstrucao",
-    "titulo": "O fornecedor responde para a IA?",
-    "pausado": true
-  },
-  {
-    "id": "2026-11-28-ig-cliente",
-    "data": "2026-11-28",
-    "hora": "12:00",
-    "tipo": "post",
-    "legenda": "Para a engenharia, compras é um sistema: ela pede e espera a ordem de compra aparecer. Quando demora, a pergunta vem rápido: \"minha demanda está parada?\".\n\nDo lado de compras, a solicitação não está parada. Está sendo cotada, cobrada e lançada, item por item.\n\nCom a dgenny fazendo a cotação, a resposta para a obra chega antes da pergunta.\n\n#dgenny #compras #suprimentos #construcaocivil",
-    "titulo": "A obra pergunta: cadê o meu material?",
-    "imagem": "nov-dez/midia/2026-11-28_ig_cliente.jpg"
-  },
-  {
-    "id": "2026-11-29-ig-cbic-ia-compras",
-    "data": "2026-11-29",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-11-29_ig_cbic_ia_compras.jpg",
-    "legenda": "IA e inovação estão entre os temas do Conexão CBIC deste ano. Para a gente, é assunto do dia a dia.\n\nNa prática, IA em compras é uma assistente para a equipe de suprimentos: ela pede cotação aos fornecedores pelo WhatsApp e monta o mapa de cotação, e o comprador fica com tempo para negociar com o fornecedor e decidir.\n\nNo dia 1º de dezembro, estaremos presentes no Conexão CBIC, em Brasília. Vai estar lá? Manda um direct.\n\n#dgenny #ConexaoCBIC #construcaocivil #compras",
-    "titulo": "IA na construção começa pelas compras. 1º de dezembro, no Conexão CBIC"
-  },
-  {
-    "id": "2026-11-30-ig-case-lc-reels",
-    "data": "2026-11-30",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-11-30_ig_reels_case-lc-tempo-para-negociar.mp4",
-    "capa": "nov-dez/midia/2026-11-30_ig_reels_case-lc-tempo-para-negociar_capa.jpg",
-    "legenda": "\"Antes eu ficava só negociando preço por negociar, porque tem que negociar.\"\n\nQuando o mapa de cotação demora, a conversa com o fornecedor acontece na correria. Com as propostas lado a lado mais cedo, o comprador escolhe a hora: segura dois ou três dias no fim do mês e pede uma condição melhor.\n\nCase LC Engenharia, link na bio.\n\n#dgenny #compras #fornecedores #construcaocivil",
-    "titulo": "Agora sobra tempo para negociar com o fornecedor",
-    "pausado": true
-  },
-  {
-    "id": "2026-12-01-ig-post-erp",
-    "data": "2026-12-01",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-12-01_ig_post_erp.jpg",
-    "legenda": "A solicitação continua saindo do ERP. A aprovação continua com quem aprova hoje.\n\nO que muda é o meio: a dgenny cota com os fornecedores pelo WhatsApp e entrega o mapa pronto. O comprador ganha tempo para escolher bem e pedir condição melhor ao fornecedor.\n\n#dgenny #compras #suprimentos #construtora",
-    "titulo": "Seu processo de compras continua o mesmo. Só fica mais rápido."
-  },
-  {
-    "id": "2026-12-02-ig-cliente",
-    "data": "2026-12-02",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "legenda": "O comprador de construtora é o ponto de encontro de seis frentes: obra, quem aprova, fornecedores, financeiro, fiscal e almoxarifado. Cada uma com a sua pressa e a sua pergunta.\n\nQuando a cotação consome o dia, essas conversas viram correria. Quando a cotação anda sozinha, o comprador volta a ter tempo para alinhar com quem importa.\n\nArrasta para o lado. Faltou alguma área na sua rotina?\n\n#dgenny #compras #suprimentos #construcaocivil",
-    "titulo": "Compras conversa com 6 frentes ao mesmo tempo",
-    "imagens": [
-      "nov-dez/midia/2026-12-02_ig_cliente_p1.jpg",
-      "nov-dez/midia/2026-12-02_ig_cliente_p2.jpg",
-      "nov-dez/midia/2026-12-02_ig_cliente_p3.jpg",
-      "nov-dez/midia/2026-12-02_ig_cliente_p4.jpg",
-      "nov-dez/midia/2026-12-02_ig_cliente_p5.jpg",
-      "nov-dez/midia/2026-12-02_ig_cliente_p6.jpg",
-      "nov-dez/midia/2026-12-02_ig_cliente_p7.jpg",
-      "nov-dez/midia/2026-12-02_ig_cliente_p8.jpg"
-    ]
-  },
-  {
-    "id": "2026-12-03-ig-post-erp",
-    "data": "2026-12-03",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagem": "nov-dez/midia/2026-12-03_ig_post_erp.jpg",
-    "legenda": "Conta aqui nos comentários: qual ERP a sua construtora usa para compras?\n\nSe for Sienge, TOTVS, Senior ou UAU, a dgenny já se integra a ele. Ela cota com os fornecedores pelo WhatsApp, monta o mapa e devolve o resultado para o sistema.\n\n#dgenny #compras #suprimentos #construtora",
-    "titulo": "Qual ERP a sua construtora usa?"
-  },
-  {
-    "id": "2026-12-04-ig-case-lc-reels",
-    "data": "2026-12-04",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-12-04_ig_reels_case-lc-um-dia-inteiro.mp4",
-    "capa": "nov-dez/midia/2026-12-04_ig_reels_case-lc-um-dia-inteiro_capa.jpg",
-    "legenda": "Equalizar uma lista grande de materiais tomava um dia inteiro da compradora.\n\nHoje leva uma, duas horas. E o tempo é quase o mesmo para uma lista de 5 ou de 90 itens.\n\nCase completo da LC Engenharia no blog, link na bio.\n\n#dgenny #comprasnaconstrucao #produtividade #fornecedores",
-    "titulo": "Um dia inteiro virou uma, duas horas",
-    "pausado": true
-  },
-  {
-    "id": "2026-12-05-ig-cliente",
-    "data": "2026-12-05",
-    "hora": "12:00",
-    "tipo": "post",
-    "legenda": "Toda construtora tem lead time combinado com a obra. E toda construtora tem o pedido que chega fora dele.\n\nO urgente em si não é o problema. O problema é que ele para todo o resto: o comprador larga as outras cotações para correr atrás de preço.\n\nCom a dgenny disparando a cotação para vários fornecedores ao mesmo tempo, o urgente anda rápido e o resto não fica para trás.\n\n#dgenny #compras #suprimentos #construcaocivil",
-    "titulo": "Pedido urgente, fora do prazo. De novo.",
-    "imagem": "nov-dez/midia/2026-12-05_ig_cliente.jpg"
-  },
-  {
-    "id": "2026-12-07-ig-case-lc-reels",
-    "data": "2026-12-07",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-12-07_ig_reels_case-lc-comprador-na-mesa.mp4",
-    "capa": "nov-dez/midia/2026-12-07_ig_reels_case-lc-comprador-na-mesa_capa.jpg",
-    "legenda": "\"A negociação tem que ficar com o comprador. Não tem como tirar do humano.\"\n\nConcordamos. A dgenny faz o operacional: pede preço, cobra resposta, lê proposta, monta o mapa. A decisão e a conversa final com o fornecedor continuam com quem compra.\n\n#dgenny #compras #comprador #fornecedores",
-    "titulo": "A IA não tira o comprador da mesa",
-    "pausado": true
-  },
-  {
-    "id": "2026-12-08-ig-reels-simone",
-    "data": "2026-12-08",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-12-08_ig_reels_simone.mp4",
-    "capa": "nov-dez/midia/2026-12-08_ig_reels_simone_capa.jpg",
-    "legenda": "Se o seu time de compras atende várias obras ao mesmo tempo, boa parte do dia vai embora em planilha, WhatsApp e mapa de cotação digitado à mão.\n\nA Simone explica como a dgenny assume esse operacional para o comprador analisar e negociar melhor com o fornecedor.\n\n#dgenny #compras #construtora #suprimentos",
-    "titulo": "Quem compra para várias obras ao mesmo tempo."
-  },
-  {
-    "id": "2026-12-09-ig-cliente",
-    "data": "2026-12-09",
-    "hora": "12:00",
-    "tipo": "post",
-    "legenda": "Três coisas que todo comprador sabe que deveria fazer e quase nunca sobra tempo:\n\n1. Revisar os preços tabelados antes que fiquem velhos.\n2. Trazer fornecedor novo para a disputa.\n3. Pedir condição melhor ao fornecedor no momento certo, como no fim do mês, quando ele precisa vender.\n\nNão é falta de vontade. É falta de tempo. A dgenny assume a cotação para essas três voltarem para a agenda.\n\n#dgenny #compras #suprimentos #construcaocivil",
-    "titulo": "O que o comprador deixa para depois",
-    "imagem": "nov-dez/midia/2026-12-09_ig_cliente.jpg"
-  },
-  {
-    "id": "2026-12-10-ig-post",
-    "data": "2026-12-10",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagens": [
-      "nov-dez/midia/2026-12-10_ig_estatico_9-minutos.jpg"
-    ],
-    "legenda": "9 minutos até a primeira resposta do fornecedor. Esse é o número da ATR Incorporadora.\n\nO segredo não é pressão, é o canal: a cotação vai pelo WhatsApp, onde o fornecedor já está, sem portal e sem cadastro novo.\n\nA dgenny manda o pedido, cobra quem ficou para trás e organiza as propostas para o comprador decidir.\n\n#dgenny #compras #fornecedores #construcaocivil",
-    "titulo": "9 minutos até a primeira resposta do fornecedor"
-  },
-  {
-    "id": "2026-12-11-ig-carrossel",
-    "data": "2026-12-11",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2026-12-11_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2026-12-11_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2026-12-11_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2026-12-11_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2026-12-11_ig_carrossel_p5.jpg"
-    ],
-    "legenda": "Numa cotação, cada fornecedor conversa só com você. Ninguém vê a proposta do outro.\n\nDo seu lado, a dgenny junta tudo numa tela só: quem respondeu, quem mandou contraproposta, quem ainda não respondeu, e o preço e o prazo de cada um.\n\nDisputa de verdade, sem expor ninguém. Vale para toda cotação, da reposição pequena à compra estratégica.\n\n#dgenny #compras #fornecedores #cotacao",
-    "titulo": "Os fornecedores não se enxergam. Você enxerga todos."
-  },
-  {
-    "id": "2026-12-11-ig-case-lc-reels",
-    "data": "2026-12-11",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-12-11_ig_reels_case-lc-achei-que-seria-dificil.mp4",
-    "capa": "nov-dez/midia/2026-12-11_ig_reels_case-lc-achei-que-seria-dificil_capa.jpg",
-    "legenda": "Todo time de compras tem esse receio antes de começar com IA: vai dar trabalho, vou ter que ensinar tudo.\n\nA compradora que mais usa a dgenny na LC Engenharia achou o mesmo. Depois de usar, a resposta foi outra.\n\n#dgenny #comprasnaconstrucao #ia #construcaocivil",
-    "titulo": "Achei que seria muito mais difícil",
-    "pausado": true
-  },
-  {
-    "id": "2026-12-15-ig-carrossel",
-    "data": "2026-12-15",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2026-12-15_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2026-12-15_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2026-12-15_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2026-12-15_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2026-12-15_ig_carrossel_p5.jpg",
-      "nov-dez/midia/2026-12-15_ig_carrossel_p6.jpg"
-    ],
-    "legenda": "Quando a ATR Incorporadora contratou a dgenny, fez quatro pedidos: não aumentar a equipe de suprimentos, falar com o fornecedor onde ele já está, mapa de cotação em um clique e um time mais analítico.\n\nPasse para o lado e veja o que cada pedido virou em número.\n\nEm um ano, foram R$ 4,05 milhões negociados, com no máximo 3 compradoras trabalhando ao mesmo tempo.\n\n#dgenny #compras #construcaocivil #suprimentos",
-    "titulo": "Case ATR: o que pediu e o que recebeu"
-  },
-  {
-    "id": "2026-12-16-ig-reels-rossoni",
-    "data": "2026-12-16",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-12-16_ig_reels_rossoni.mp4",
-    "capa": "nov-dez/midia/2026-12-16_ig_reels_rossoni_capa.jpg",
-    "legenda": "Quem cota sempre com os mesmos três fornecedores negocia no escuro.\n\nO Rossoni explica por que ampliar o número de propostas muda a conversa com o fornecedor, e como a IA ajuda a fazer isso sem aumentar o trabalho.\n\nFaz sentido para você? Conta aqui nos comentários.\n\n#dgenny #compras #fornecedores #suprimentos",
-    "titulo": "Mais fornecedores na mesa, mais poder de barganha."
-  },
-  {
-    "id": "2026-12-17-ig-post",
-    "data": "2026-12-17",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagens": [
-      "nov-dez/midia/2026-12-17_ig_estatico_imposto.jpg"
-    ],
-    "legenda": "Qual sai mais barato?\n\nA primeira proposta tem o imposto dentro do preço: R$ 48,00 o metro.\nA segunda parece mais barata, R$ 44,90, mas o IPI de 10% vem por fora. Na conta final, dá R$ 49,39.\n\nQuando cada fornecedor apresenta o preço de um jeito, a comparação só é justa na mesma base: imposto, frete e prazo. É assim que a dgenny monta o mapa de cotação.\n\n#dgenny #compras #cotacao #construcaocivil",
-    "titulo": "O imposto está no preço?"
-  },
-  {
-    "id": "2026-12-18-ig-reels-tierre",
-    "data": "2026-12-18",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-12-18_ig_reels_tierre.mp4",
-    "capa": "nov-dez/midia/2026-12-18_ig_reels_tierre_capa.jpg",
-    "legenda": "Quanto tempo o seu time de compras gasta só organizando cotação?\n\nTierre trabalha com construtoras e vê sempre o mesmo cenário: comprador sobrecarregado, várias obras pedindo material ao mesmo tempo, cada uma controlada de um jeito.\n\nCom a dgenny, as propostas de todas as obras ficam num só lugar, comparadas e prontas para justificar cada compra.\n\n#dgenny #compras #construtora #suprimentos",
-    "titulo": "Quanto tempo o seu time gasta em cotação?"
-  },
-  {
-    "id": "2026-12-21-ig-carrossel",
-    "data": "2026-12-21",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2026-12-21_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2026-12-21_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2026-12-21_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2026-12-21_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2026-12-21_ig_carrossel_p5.jpg",
-      "nov-dez/midia/2026-12-21_ig_carrossel_p6.jpg",
-      "nov-dez/midia/2026-12-21_ig_carrossel_p7.jpg"
-    ],
-    "legenda": "Fim de ano é quando o fornecedor fecha, a transportadora reduz e a obra continua.\n\nAntes do recesso, combine por escrito com cada fornecedor:\n1. Último dia para pedir com entrega neste ano.\n2. Último faturamento.\n3. Data de volta.\n4. Entrega programada para as etapas de janeiro.\n5. Quem atende em caso de urgência.\n\nSalve e mande para o time. O checklist completo está no blog da dgenny.\n\n#dgenny #compras #construcaocivil #suprimentos",
-    "titulo": "O que fechar com o fornecedor antes do recesso"
-  },
-  {
-    "id": "2026-12-22-ig-reels-rossoni",
-    "data": "2026-12-22",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2026-12-22_ig_reels_rossoni.mp4",
-    "capa": "nov-dez/midia/2026-12-22_ig_reels_rossoni_capa.jpg",
-    "legenda": "Achar fornecedor novo ainda é um trabalho manual: Google, telefone e conversa com cada empresa.\n\nO Rossoni explica como a IA ajuda o time de compras a encontrar fornecedores, conversar com eles e receber propostas de empresas que você nem conhecia.\n\nTem algum item para o qual você não acha fornecedor? Conta aqui nos comentários.\n\n#dgenny #compras #fornecedores #suprimentos",
-    "titulo": "Fornecedor novo sem passar o dia no Google."
-  },
-  {
-    "id": "2026-12-23-ig-post",
-    "data": "2026-12-23",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagens": [
-      "nov-dez/midia/2026-12-23_ig_boas-festas.jpg"
-    ],
-    "legenda": "Boas festas!\n\nObrigado a cada comprador, fornecedor e obra que andou com a gente em 2026. Que o próximo ano tenha menos urgência e mais tempo para decidir.\n\nEquipe dgenny\n\n#dgenny #boasfestas #compras #construcaocivil",
-    "titulo": "Boas festas"
-  },
-  {
-    "id": "2026-12-28-ig-carrossel",
-    "data": "2026-12-28",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2026-12-28_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2026-12-28_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2026-12-28_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2026-12-28_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2026-12-28_ig_carrossel_p5.jpg",
-      "nov-dez/midia/2026-12-28_ig_carrossel_p6.jpg",
-      "nov-dez/midia/2026-12-28_ig_carrossel_p7.jpg",
-      "nov-dez/midia/2026-12-28_ig_carrossel_p8.jpg"
-    ],
-    "legenda": "Um ano de ATR Incorporadora com a dgenny, em números.\n\nR$ 4,05 milhões em compras negociadas. 2.524 horas de trabalho poupadas. R$ 1,2 milhão de saving validado, item a item. 92,5% das cotações com disputa real entre fornecedores.\n\nTudo com no máximo 3 compradoras trabalhando ao mesmo tempo. Passe para o lado.\n\n#dgenny #compras #construcaocivil #suprimentos",
-    "titulo": "ATR: um ano em números"
-  },
-  {
-    "id": "2026-12-29-ig-carrossel",
-    "data": "2026-12-29",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2026-12-29_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2026-12-29_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2026-12-29_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2026-12-29_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2026-12-29_ig_carrossel_p5.jpg",
-      "nov-dez/midia/2026-12-29_ig_carrossel_p6.jpg",
-      "nov-dez/midia/2026-12-29_ig_carrossel_p7.jpg"
-    ],
-    "legenda": "Plano de compras 2027 em 5 perguntas:\n\n1. O que vou comprar, e quando?\n2. O que pesa mais no custo?\n3. Com quais fornecedores eu conto?\n4. O que fecho em contrato?\n5. Como vou medir?\n\nResponda as cinco antes de janeiro e o ano começa com menos urgência. Salve para revisar com o time.\n\n#dgenny #compras #planejamento #construcaocivil",
-    "titulo": "Plano de compras 2027 em 5 perguntas"
-  },
-  {
-    "id": "2026-12-30-ig-post",
-    "data": "2026-12-30",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagens": [
-      "nov-dez/midia/2026-12-30_ig_estatico_2027.jpg"
-    ],
-    "legenda": "Que 2027 venha com menos urgência e mais tempo para decidir.\n\nFeliz ano novo, da equipe dgenny.\n\n#dgenny #feliz2027 #compras #construcaocivil",
-    "titulo": "Feliz 2027"
-  },
-  {
-    "id": "2027-01-05-ig-carrossel",
-    "data": "2027-01-05",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2027-01-05_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2027-01-05_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2027-01-05_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2027-01-05_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2027-01-05_ig_carrossel_p5.jpg",
-      "nov-dez/midia/2027-01-05_ig_carrossel_p6.jpg",
-      "nov-dez/midia/2027-01-05_ig_carrossel_p7.jpg"
-    ],
-    "legenda": "2027 começou e a reforma tributária chegou para quem compra.\n\nA CBS entra no lugar do PIS e da Cofins. O imposto passa a vir por fora do preço, quase toda compra gera crédito e o regime do fornecedor começa a pesar na comparação.\n\nPasse para o lado e salve. O guia completo está no blog da dgenny.\n\n#dgenny #reformatributaria #compras #construcaocivil",
-    "titulo": "Reforma tributária: o que muda para quem compra em 2027"
-  },
-  {
-    "id": "2027-01-06-ig-post",
-    "data": "2027-01-06",
-    "hora": "12:00",
-    "tipo": "post",
-    "imagens": [
-      "nov-dez/midia/2027-01-06_ig_estatico_2417.jpg"
-    ],
-    "legenda": "2.417 propostas de fornecedor que ninguém precisou digitar.\n\nNa ATR Incorporadora, 79% delas foram lidas direto da conversa no WhatsApp e equalizadas item a item pela IA da dgenny.\n\nO tempo que ia para a digitação agora vai para a análise.\n\n#dgenny #compras #fornecedores #construcaocivil",
-    "titulo": "2.417 propostas que ninguém precisou digitar"
-  },
-  {
-    "id": "2027-01-07-ig-carrossel",
-    "data": "2027-01-07",
-    "hora": "12:00",
-    "tipo": "carrossel",
-    "imagens": [
-      "nov-dez/midia/2027-01-07_ig_carrossel_p1.jpg",
-      "nov-dez/midia/2027-01-07_ig_carrossel_p2.jpg",
-      "nov-dez/midia/2027-01-07_ig_carrossel_p3.jpg",
-      "nov-dez/midia/2027-01-07_ig_carrossel_p4.jpg",
-      "nov-dez/midia/2027-01-07_ig_carrossel_p5.jpg",
-      "nov-dez/midia/2027-01-07_ig_carrossel_p6.jpg",
-      "nov-dez/midia/2027-01-07_ig_carrossel_p7.jpg"
-    ],
-    "legenda": "Checklist de janeiro do comprador:\n\n1. O que ficou do recesso.\n2. Preços tabelados.\n3. Lead time.\n4. Cronograma das obras.\n5. Fornecedor novo.\n\nPasse para o lado, salve e comece o ano decidindo. A cotação fica com a dgenny.\n\n#dgenny #compras #construcaocivil #suprimentos",
-    "titulo": "Checklist de janeiro do comprador"
-  },
-  {
-    "id": "2027-01-08-ig-reels-rossoni",
-    "data": "2027-01-08",
-    "hora": "12:00",
-    "tipo": "reels",
-    "video": "nov-dez/midia/2027-01-08_ig_reels_rossoni.mp4",
-    "capa": "nov-dez/midia/2027-01-08_ig_reels_rossoni_capa.jpg",
-    "legenda": "Tem muito comprador buscando novas formas de gerar resultado. E a inteligência artificial chegou com tudo.\n\nA partir de dezenas de milhares de negociações feitas pela IA para os mais de 100 clientes da dgenny, o Rossoni conta o que vem por aí: escala, decisão melhor e mais fornecedores na mesa.\n\nSegue a dgenny para acompanhar.\n\n#dgenny #compras #inteligenciaartificial #suprimentos",
-    "titulo": "O comprador como protagonista."
-  }
+ {
+  "id": "2026-11-03-ig-reels",
+  "data": "2026-11-03",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-11-03_ig_reels_rossoni.mp4",
+  "capa": "nov-dez/midia/2026-11-03_ig_reels_capa.jpg",
+  "legenda": "Durante anos, comprar foi sinônimo de fazer tudo na mão: cotar, cobrar fornecedor, comparar proposta, montar planilha.\n\nCom a inteligência artificial cuidando da parte operacional, o comprador ganha tempo para decidir e negociar melhor com o fornecedor.\n\nO Rossoni explica o que muda na rotina de quem compra. Se fizer sentido para você, segue a dgenny por aqui.\n\n#compras #suprimentos #construcaocivil",
+  "titulo": "O comprador não precisa mais fazer tudo sozinho."
+ },
+ {
+  "id": "2026-11-04-ig-estatico",
+  "data": "2026-11-04",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-11-04_ig_cotacao.jpg"
+  ],
+  "legenda": "Cotação boa é a que você consegue comparar.\n\nA primeira resposta tem frete FOB, a segunda tem prazo de 15 dias e a terceira veio sem a condição de pagamento.\n\nSem colocar tudo na mesma base, a decisão vira chute. É essa comparação que a dgenny faz por você antes de chegar na sua mesa.\n\n#compras #cotacao #obra",
+  "titulo": "Cotação boa não é a que chega primeiro."
+ },
+ {
+  "id": "2026-11-05-ig-carrossel",
+  "data": "2026-11-05",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-11-05_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2026-11-05_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "É assim que uma compra anda com a dgenny, sem planilha no meio.\n\nO comprador continua decidindo. A parte operacional fica com a IA.\n\nArrasta para o lado e vê cada etapa.\n\n#compras #suprimentos #construtora",
+  "titulo": "Do pedido da obra ao pedido de compra, em 6 passos"
+ },
+ {
+  "id": "2026-11-06-ig-reels",
+  "data": "2026-11-06",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-11-07_ig_reels_laryssa.mp4",
+  "capa": "nov-dez/midia/2026-11-07_ig_reels_laryssa_capa.jpg",
+  "legenda": "Pedido recebido, fornecedores encontrados, cotação pelo WhatsApp e propostas lado a lado com preço, prazo e condição de pagamento.\n\nA Laryssa mostra o caminho que a dgenny faz por você.\n\n#compras #whatsapp #obra",
+  "titulo": "A cotação andando de ponta a ponta."
+ },
+ {
+  "id": "2026-11-10-ig-post-erp",
+  "data": "2026-11-10",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-10_ig_post_erp.jpg",
+  "legenda": "Pergunta que a gente mais ouve: \"funciona com o nosso ERP?\"\n\nSe a sua construtora usa Sienge, TOTVS, Senior ou UAU, funciona. A solicitação continua saindo do ERP. A dgenny pede cotação aos fornecedores pelo WhatsApp, monta o mapa e o resultado volta para o sistema.\n\nNinguém precisa trocar de ferramenta para cotar mais rápido.\n\n#compras #suprimentos #construtora",
+  "titulo": "A dgenny funciona com Sienge, TOTVS, Senior e UAU"
+ },
+ {
+  "id": "2026-11-11-ig-carrossel",
+  "data": "2026-11-11",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-11-11_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-11-11_ig_carrossel_p6.jpg"
+  ],
+  "legenda": "Duas propostas de cimento CP-II com o mesmo preço por saco podem ter custos bem diferentes no fim.\n\nArrasta e confere os quatro pontos. Qual deles mais pega na sua obra?\n\n#compras #cotacao #suprimentos",
+  "titulo": "4 coisas que mudam o preço final de uma cotação"
+ },
+ {
+  "id": "2026-11-12-ig-visita-oad",
+  "data": "2026-11-12",
+  "hora": "07:40",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-12_ig_visita_oad.jpg",
+  "legenda": "Visita ao Grupo OAD.\n\nFomos até o Grupo OAD para estar com o time e mostrar as novidades da dgenny.\n\nÉ nessas visitas que a gente entende de perto o dia a dia de quem compra e leva para a plataforma o que faz diferença na operação.\n\nObrigado pela recepção, Grupo OAD! 💜\n\n#dgenny #suprimentos #compras",
+  "titulo": "Time da dgenny em visita ao Grupo OAD"
+ },
+ {
+  "id": "2026-11-12-ig-post-erp",
+  "data": "2026-11-12",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-12_ig_post_erp.jpg",
+  "legenda": "O ERP guarda o pedido, a nota e o cadastro do fornecedor. Mas a cotação mesmo acontece em outro lugar: no WhatsApp, numa conversa por fornecedor.\n\nÉ essa parte que a dgenny assume. Ela manda o pedido de cotação, cobra quem ficou para trás e organiza as propostas para o comprador decidir.\n\n#dgenny #compras #suprimentos #construtora",
+  "titulo": "Seu ERP não manda WhatsApp para fornecedor"
+ },
+ {
+  "id": "2026-11-13-ig-visita-gpc",
+  "data": "2026-11-13",
+  "hora": "07:40",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-13_ig_visita_gpc.jpg",
+  "legenda": "Visita à GPC Empreendimentos.\n\nFomos até a GPC, cliente da dgenny desde o início do ano, para apresentar as melhorias da integração com o Sienge.\n\nÉ nessas conversas que a gente vê de perto a rotina de quem compra e ajusta a plataforma para que a cotação e o ERP andem juntos, sem retrabalho.\n\nObrigado pela recepção, GPC! 💜\n\n#dgenny #suprimentos #compras #sienge",
+  "titulo": "Time da dgenny em visita à GPC Empreendimentos"
+ },
+ {
+  "id": "2026-11-13-ig-case-lc-carrossel",
+  "data": "2026-11-13",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p1.jpg",
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p2.jpg",
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p3.jpg",
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p4.jpg",
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p5.jpg",
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p6.jpg",
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p7.jpg",
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p8.jpg",
+   "nov-dez/midia/2026-11-13_ig_case-lc_carrossel_p9.jpg"
+  ],
+  "legenda": "A LC Engenharia toca 40 obras ao mesmo tempo em Mato Grosso do Sul.\n\nEm julho, o time de compras colocou a dgenny na operação. Em quatro meses:\n80 ordens de compra por semana viraram 180\nUma lista grande que levava um dia para equalizar hoje leva uma, duas horas\nE sobrou tempo para pedir condição melhor ao fornecedor\n\nArraste para ver os números. O case completo está no blog, link na bio.\n\n#dgenny #comprasnaconstrucao #construcaocivil #fornecedores",
+  "titulo": "Como a LC Engenharia dobrou o ritmo de compras em 40 obras",
+  "pausado": true
+ },
+ {
+  "id": "2026-11-13-ig-preco",
+  "data": "2026-11-13",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-11-13_ig_preco.jpg"
+  ],
+  "legenda": "Responde antes de ler: A ou B?\n\nFornecedor A: R$ 31,90 o saco, com frete por sua conta (FOB).\nFornecedor B: R$ 33,50 o saco, entregue na obra (CIF).\n\nEm 200 sacos, um frete de R$ 480 leva o A para R$ 34,30 o saco. O B sai R$ 160 mais barato.\n\nPor isso a dgenny coloca todas as propostas na mesma base antes de chegarem na sua mesa.\n\n#dgenny #compras #cotacao #construcaocivil",
+  "titulo": "Qual sai mais barato na obra?"
+ },
+ {
+  "id": "2026-11-14-ig-cliente",
+  "data": "2026-11-14",
+  "hora": "12:00",
+  "tipo": "post",
+  "legenda": "Quem olha de fora acha que compras é só achar o menor preço.\n\nQuem está dentro sabe: toda solicitação chega com um prazo. Se o material não chega a tempo, a obra para. E obra parada custa mais caro do que qualquer desconto.\n\nPor isso o comprador vive entre duas pressões: comprar bem e comprar a tempo. A dgenny tira o operacional do caminho para as duas caberem no mesmo dia.\n\n#dgenny #compras #suprimentos #construcaocivil",
+  "titulo": "Antes do preço, o comprador pensa no prazo da obra",
+  "imagem": "nov-dez/midia/2026-11-14_ig_cliente.jpg"
+ },
+ {
+  "id": "2026-11-16-ig-case-lc-reels",
+  "data": "2026-11-16",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-11-16_ig_reels_case-lc-ordens-de-compra.mp4",
+  "capa": "nov-dez/midia/2026-11-16_ig_reels_case-lc-ordens-de-compra_capa.jpg",
+  "legenda": "Antes da dgenny, o time de compras da LC Engenharia gerava cerca de 80 ordens de compra por semana.\n\nNa primeira semana com a dgenny, foram 150. Hoje são entre 160 e 180, em 40 obras espalhadas por Mato Grosso do Sul.\n\nO case completo está no nosso blog. Link na bio.\n\n#dgenny #comprasnaconstrucao #construcaocivil #fornecedores",
+  "titulo": "De 80 para 180 ordens de compra por semana",
+  "pausado": true
+ },
+ {
+  "id": "2026-11-16-ig-reforma-carrossel",
+  "data": "2026-11-16",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2027-01-05_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2027-01-05_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "Em janeiro de 2027, a reforma tributária chega para quem compra.\n\nA CBS entra no lugar do PIS e da Cofins. O imposto passa a vir por fora do preço, quase toda compra gera crédito e o regime do fornecedor começa a pesar na comparação.\n\nFaltam poucas semanas. Passe para o lado e salve. O guia completo está no blog da dgenny.\n\n#dgenny #reformatributaria #compras #construcaocivil",
+  "titulo": "Reforma tributária: o que muda para quem compra em 2027"
+ },
+ {
+  "id": "2026-11-17-ig-ret-carrossel",
+  "data": "2026-11-17",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-11-17_ig_ret_p1.jpg",
+   "nov-dez/midia/2026-11-17_ig_ret_p2.jpg",
+   "nov-dez/midia/2026-11-17_ig_ret_p3.jpg",
+   "nov-dez/midia/2026-11-17_ig_ret_p4.jpg",
+   "nov-dez/midia/2026-11-17_ig_ret_p5.jpg",
+   "nov-dez/midia/2026-11-17_ig_ret_p6.jpg",
+   "nov-dez/midia/2026-11-17_ig_ret_p7.jpg"
+  ],
+  "legenda": "Ontem falamos da reforma tributária: a partir de 2027, quase toda compra passa a gerar crédito. Hoje, a exceção.\n\nNa obra no RET, o imposto que vem na nota do fornecedor não volta como crédito. Ele entra no custo da obra, como o cimento ou o frete.\n\nRET é o Regime Especial de Tributação das incorporações com patrimônio de afetação. Em vez de apurar cada tributo, a obra paga uma alíquota única de 4% sobre a receita recebida.\n\nCom a reforma tributária, a partir de 2027, a conta fica assim: 1,92% de IRPJ e CSLL mais 2,08% de IBS e CBS. Os mesmos 4%. E continua sem crédito nas compras.\n\nNo regime regular é diferente: o IBS e a CBS pagos na compra podem voltar como crédito, desde que o fornecedor esteja em dia.\n\nPor isso, antes de cotar, vale saber o regime de cada empreendimento.\n\n#dgenny #reformatributaria #construcaocivil #suprimentos #incorporacao",
+  "titulo": "Na obra no RET, o imposto da nota vira custo"
+ },
+ {
+  "id": "2026-11-18-ig-cliente",
+  "data": "2026-11-18",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "legenda": "Pergunte a um comprador de construtora como é uma cotação do começo ao fim. A resposta costuma ter seis passos, e quatro deles são puro operacional: escolher fornecedor, mandar mensagem um por um, cobrar resposta e lançar tudo no ERP.\n\nO que sobra para a parte que dá resultado, comparar com calma e pedir condição melhor ao fornecedor, é o fim do dia e o prazo apertado.\n\nArrasta para o lado e vê onde o tempo vai embora.\n\n#dgenny #compras #suprimentos #construcaocivil",
+  "titulo": "Onde vai o dia de quem compra para obra",
+  "imagens": [
+   "nov-dez/midia/2026-11-18_ig_cliente_p1.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p2.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p3.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p4.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p5.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p6.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p7.jpg",
+   "nov-dez/midia/2026-11-18_ig_cliente_p8.jpg"
+  ]
+ },
+ {
+  "id": "2026-11-19-ig-post-erp",
+  "data": "2026-11-19",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-19_ig_post_erp.jpg",
+  "legenda": "Melhorar compras não começa trocando de ERP, refazendo cadastro ou mudando o processo da construtora.\n\nA dgenny se integra ao sistema que vocês já têm e assume a parte mais trabalhosa: a cotação com os fornecedores.\n\n#dgenny #compras #suprimentos #construtora",
+  "titulo": "Não precisa trocar de sistema"
+ },
+ {
+  "id": "2026-11-21-ig-cliente",
+  "data": "2026-11-21",
+  "hora": "12:00",
+  "tipo": "post",
+  "legenda": "Responde aqui nos comentários: de cada cinco fornecedores que você chama numa cotação, quantos mandam proposta sem precisar cobrar?\n\nQuem vive isso sabe que raramente são os cinco. O resto vira lembrete, ligação e \"conseguiu ver a cotação?\".\n\nÉ esse vai e vem que a dgenny assume pelo WhatsApp.\n\n#dgenny #compras #suprimentos #construcaocivil",
+  "titulo": "Você chama 5 fornecedores. Quantos respondem?",
+  "imagem": "nov-dez/midia/2026-11-21_ig_cliente.jpg"
+ },
+ {
+  "id": "2026-11-22-ig-cbic-anuncio",
+  "data": "2026-11-22",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-22_ig_cbic_anuncio.jpg",
+  "legenda": "No dia 1º de dezembro a dgenny estará presente no Conexão CBIC 2026, em Brasília.\n\nO encontro da Câmara Brasileira da Indústria da Construção reúne empresários, executivos e lideranças do setor para discutir economia, crédito imobiliário, ESG e o papel da IA e da inovação na construção.\n\nSe você também vai, chama a gente no direct para marcarmos uma conversa por lá.\n\nWindsor Plaza Hotel, Brasília\nTerça, 1º/12, das 13h30 às 17h30\n\n#dgenny #ConexaoCBIC #construcaocivil #suprimentos",
+  "titulo": "1º de dezembro: a dgenny estará presente no Conexão CBIC, em Brasília"
+ },
+ {
+  "id": "2026-11-22-ig-cbic-story",
+  "data": "2026-11-22",
+  "hora": "12:05",
+  "tipo": "story",
+  "imagem": "nov-dez/midia/2026-11-22_ig_cbic_story.jpg",
+  "legenda": "",
+  "titulo": "Story: a dgenny estará presente no Conexão CBIC, 1º/12, Brasília"
+ },
+ {
+  "id": "2026-11-23-ig-case-lc-reels",
+  "data": "2026-11-23",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-11-23_ig_reels_case-lc-250-vezes.mp4",
+  "capa": "nov-dez/midia/2026-11-23_ig_reels_case-lc-250-vezes_capa.jpg",
+  "legenda": "Uma lista de 50 itens. Cinco fornecedores. 250 lançamentos manuais no sistema.\n\nEra assim que o time da LC Engenharia montava cada mapa de cotação. Hoje a dgenny lê as propostas e monta o mapa sozinha, direto no Sienge.\n\nO comprador volta a fazer o que importa: escolher e pedir condição melhor ao fornecedor.\n\n#dgenny #comprasnaconstrucao #mapadecotacao #sienge",
+  "titulo": "250 vezes digitando a mesma coisa",
+  "pausado": true
+ },
+ {
+  "id": "2026-11-24-ig-post-erp",
+  "data": "2026-11-24",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-24_ig_post_erp.jpg",
+  "legenda": "Copia o preço do WhatsApp. Cola na planilha. Confere. Lança no ERP. Repete para cada fornecedor e cada item.\n\nSe essa é a rotina do seu time de compras, tem trabalho demais e controle de menos. A dgenny recebe as propostas, monta o mapa de cotação e manda o resultado para o ERP.\n\n#dgenny #compras #suprimentos #construtora",
+  "titulo": "Ctrl+C, Ctrl+V do WhatsApp para o ERP"
+ },
+ {
+  "id": "2026-11-25-ig-cliente",
+  "data": "2026-11-25",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "legenda": "Gestor de compras de construtora costuma ser cobrado por cinco números: lead time, ordens de compra por semana, saving, taxa de resposta dos fornecedores e quantos fornecedores entram em cada cotação.\n\nO problema é que, com o time afogado em cotação manual, quase ninguém tem tempo de acompanhar.\n\nQual desses é o mais difícil de medir na sua operação?\n\n#dgenny #compras #suprimentos #construcaocivil",
+  "titulo": "5 números que todo líder de compras acompanha",
+  "imagens": [
+   "nov-dez/midia/2026-11-25_ig_cliente_p1.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p2.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p3.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p4.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p5.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p6.jpg",
+   "nov-dez/midia/2026-11-25_ig_cliente_p7.jpg"
+  ]
+ },
+ {
+  "id": "2026-11-26-ig-post-erp",
+  "data": "2026-11-26",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-26_ig_post_erp.jpg",
+  "legenda": "Muita ferramenta diz que integra e, no fim, entrega um arquivo para importar. Aí alguém do time confere tudo e lança de novo.\n\nNa dgenny, a cotação sai do ERP, passa pelos fornecedores no WhatsApp e volta pronta. Funciona com Sienge, TOTVS, Senior e UAU.\n\n#dgenny #compras #suprimentos #construtora",
+  "titulo": "Integrar com ERP não é exportar planilha"
+ },
+ {
+  "id": "2026-11-27-ig-case-lc-reels",
+  "data": "2026-11-27",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-11-27_ig_reels_case-lc-fornecedor-e-a-ia.mp4",
+  "capa": "nov-dez/midia/2026-11-27_ig_reels_case-lc-fornecedor-e-a-ia_capa.jpg",
+  "legenda": "Pergunta que sempre aparece: o fornecedor responde quando quem pede o preço é uma IA?\n\nNa LC Engenharia aconteceram as duas coisas. Um vendedor deixava a IA para depois. Outro passou a responder a dgenny mais rápido do que respondia ao comprador, porque quem responde primeiro vende primeiro.\n\nE você, como acha que seus fornecedores reagiriam?\n\n#dgenny #fornecedores #ia #comprasnaconstrucao",
+  "titulo": "O fornecedor responde para a IA?",
+  "pausado": true
+ },
+ {
+  "id": "2026-11-27-ig-ret-carrossel",
+  "data": "2026-11-27",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-11-27_ig_ret_p1.jpg",
+   "nov-dez/midia/2026-11-27_ig_ret_p2.jpg",
+   "nov-dez/midia/2026-11-27_ig_ret_p3.jpg",
+   "nov-dez/midia/2026-11-27_ig_ret_p4.jpg",
+   "nov-dez/midia/2026-11-27_ig_ret_p5.jpg"
+  ],
+  "legenda": "Duas propostas de esquadrias para duas obras da mesma construtora.\n\nFornecedor A: R$ 100 mil, regime regular, R$ 11 mil de crédito.\nFornecedor B: R$ 95 mil, Simples Nacional, R$ 3 mil de crédito.\n\nNa obra no RET, nenhum crédito volta. Vence o B, que custa R$ 5 mil a menos.\nNa obra no regime regular, o crédito entra na conta. Vence o A: R$ 89 mil contra R$ 92 mil.\n\nA partir de 2027, com a reforma tributária, essa conta vai aparecer em toda cotação. Antes de comparar propostas, pergunte: essa obra está no RET?\n\nNúmeros ilustrativos, só para mostrar a lógica. A decisão do regime é da empresa com a contabilidade.\n\n#dgenny #reformatributaria #construcaocivil #fornecedores #suprimentos",
+  "titulo": "Mesma compra. Decisão diferente."
+ },
+ {
+  "id": "2026-11-28-ig-cliente",
+  "data": "2026-11-28",
+  "hora": "12:00",
+  "tipo": "post",
+  "legenda": "Para a engenharia, compras é um sistema: ela pede e espera a ordem de compra aparecer. Quando demora, a pergunta vem rápido: \"minha demanda está parada?\".\n\nDo lado de compras, a solicitação não está parada. Está sendo cotada, cobrada e lançada, item por item.\n\nCom a dgenny fazendo a cotação, a resposta para a obra chega antes da pergunta.\n\n#dgenny #compras #suprimentos #construcaocivil",
+  "titulo": "A obra pergunta: cadê o meu material?",
+  "imagem": "nov-dez/midia/2026-11-28_ig_cliente.jpg"
+ },
+ {
+  "id": "2026-11-29-ig-cbic-ia-compras",
+  "data": "2026-11-29",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-29_ig_cbic_ia_compras.jpg",
+  "legenda": "IA e inovação estão entre os temas do Conexão CBIC deste ano. Para a gente, é assunto do dia a dia.\n\nNa prática, IA em compras é uma assistente para a equipe de suprimentos: ela pede cotação aos fornecedores pelo WhatsApp e monta o mapa de cotação, e o comprador fica com tempo para negociar com o fornecedor e decidir.\n\nNo dia 1º de dezembro, estaremos presentes no Conexão CBIC, em Brasília. Vai estar lá? Manda um direct.\n\n#dgenny #ConexaoCBIC #construcaocivil #compras",
+  "titulo": "IA na construção começa pelas compras. 1º de dezembro, no Conexão CBIC"
+ },
+ {
+  "id": "2026-11-30-ig-post-erp",
+  "data": "2026-11-30",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-11-17_ig_post_erp.jpg",
+  "legenda": "Toda compra de obra faz esse caminho: o pedido nasce no ERP, a cotação roda no WhatsApp e o resultado precisa voltar para o ERP.\n\nHoje quem leva de um lado para o outro é o comprador, copiando e colando. Com a dgenny, esse meio do caminho acontece sozinho.\n\n#dgenny #compras #suprimentos #construtora",
+  "titulo": "Pedido no ERP, cotação no WhatsApp, mapa de volta no ERP"
+ },
+ {
+  "id": "2026-11-30-ig-case-lc-reels",
+  "data": "2026-11-30",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-11-30_ig_reels_case-lc-tempo-para-negociar.mp4",
+  "capa": "nov-dez/midia/2026-11-30_ig_reels_case-lc-tempo-para-negociar_capa.jpg",
+  "legenda": "\"Antes eu ficava só negociando preço por negociar, porque tem que negociar.\"\n\nQuando o mapa de cotação demora, a conversa com o fornecedor acontece na correria. Com as propostas lado a lado mais cedo, o comprador escolhe a hora: segura dois ou três dias no fim do mês e pede uma condição melhor.\n\nCase LC Engenharia, link na bio.\n\n#dgenny #compras #fornecedores #construcaocivil",
+  "titulo": "Agora sobra tempo para negociar com o fornecedor",
+  "pausado": true
+ },
+ {
+  "id": "2026-12-01-ig-post-erp",
+  "data": "2026-12-01",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-12-01_ig_post_erp.jpg",
+  "legenda": "A solicitação continua saindo do ERP. A aprovação continua com quem aprova hoje.\n\nO que muda é o meio: a dgenny cota com os fornecedores pelo WhatsApp e entrega o mapa pronto. O comprador ganha tempo para escolher bem e pedir condição melhor ao fornecedor.\n\n#dgenny #compras #suprimentos #construtora",
+  "titulo": "Seu processo de compras continua o mesmo. Só fica mais rápido."
+ },
+ {
+  "id": "2026-12-02-ig-cliente",
+  "data": "2026-12-02",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "legenda": "O comprador de construtora é o ponto de encontro de seis frentes: obra, quem aprova, fornecedores, financeiro, fiscal e almoxarifado. Cada uma com a sua pressa e a sua pergunta.\n\nQuando a cotação consome o dia, essas conversas viram correria. Quando a cotação anda sozinha, o comprador volta a ter tempo para alinhar com quem importa.\n\nArrasta para o lado. Faltou alguma área na sua rotina?\n\n#dgenny #compras #suprimentos #construcaocivil",
+  "titulo": "Compras conversa com 6 frentes ao mesmo tempo",
+  "imagens": [
+   "nov-dez/midia/2026-12-02_ig_cliente_p1.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p2.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p3.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p4.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p5.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p6.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p7.jpg",
+   "nov-dez/midia/2026-12-02_ig_cliente_p8.jpg"
+  ]
+ },
+ {
+  "id": "2026-12-03-ig-post-erp",
+  "data": "2026-12-03",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagem": "nov-dez/midia/2026-12-03_ig_post_erp.jpg",
+  "legenda": "Conta aqui nos comentários: qual ERP a sua construtora usa para compras?\n\nSe for Sienge, TOTVS, Senior ou UAU, a dgenny já se integra a ele. Ela cota com os fornecedores pelo WhatsApp, monta o mapa e devolve o resultado para o sistema.\n\n#dgenny #compras #suprimentos #construtora",
+  "titulo": "Qual ERP a sua construtora usa?"
+ },
+ {
+  "id": "2026-12-04-ig-case-lc-reels",
+  "data": "2026-12-04",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-04_ig_reels_case-lc-um-dia-inteiro.mp4",
+  "capa": "nov-dez/midia/2026-12-04_ig_reels_case-lc-um-dia-inteiro_capa.jpg",
+  "legenda": "Equalizar uma lista grande de materiais tomava um dia inteiro da compradora.\n\nHoje leva uma, duas horas. E o tempo é quase o mesmo para uma lista de 5 ou de 90 itens.\n\nCase completo da LC Engenharia no blog, link na bio.\n\n#dgenny #comprasnaconstrucao #produtividade #fornecedores",
+  "titulo": "Um dia inteiro virou uma, duas horas",
+  "pausado": true
+ },
+ {
+  "id": "2026-12-04-ig-ret-estatico",
+  "data": "2026-12-04",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-04_ig_ret_sem_credito.jpg"
+  ],
+  "legenda": "No RET, a nota do fornecedor não gera crédito de imposto. Nem hoje, com PIS e Cofins, nem a partir de 2027, com IBS e CBS.\n\nNa prática, para quem compra para uma obra no RET, o que pesa é o valor final pago ao fornecedor, somado a frete, prazo e perdas.\n\nJá nas obras no regime regular, o crédito entra na conta e o fornecedor em dia faz diferença.\n\nSua equipe de suprimentos sabe o regime de cada obra?\n\n#dgenny #reformatributaria #construcaocivil #suprimentos",
+  "titulo": "No RET, a nota do fornecedor não gera crédito"
+ },
+ {
+  "id": "2026-12-05-ig-cliente",
+  "data": "2026-12-05",
+  "hora": "12:00",
+  "tipo": "post",
+  "legenda": "Toda construtora tem lead time combinado com a obra. E toda construtora tem o pedido que chega fora dele.\n\nO urgente em si não é o problema. O problema é que ele para todo o resto: o comprador larga as outras cotações para correr atrás de preço.\n\nCom a dgenny disparando a cotação para vários fornecedores ao mesmo tempo, o urgente anda rápido e o resto não fica para trás.\n\n#dgenny #compras #suprimentos #construcaocivil",
+  "titulo": "Pedido urgente, fora do prazo. De novo.",
+  "imagem": "nov-dez/midia/2026-12-05_ig_cliente.jpg"
+ },
+ {
+  "id": "2026-12-07-ig-case-lc-reels",
+  "data": "2026-12-07",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-07_ig_reels_case-lc-comprador-na-mesa.mp4",
+  "capa": "nov-dez/midia/2026-12-07_ig_reels_case-lc-comprador-na-mesa_capa.jpg",
+  "legenda": "\"A negociação tem que ficar com o comprador. Não tem como tirar do humano.\"\n\nConcordamos. A dgenny faz o operacional: pede preço, cobra resposta, lê proposta, monta o mapa. A decisão e a conversa final com o fornecedor continuam com quem compra.\n\n#dgenny #compras #comprador #fornecedores",
+  "titulo": "A IA não tira o comprador da mesa",
+  "pausado": true
+ },
+ {
+  "id": "2026-12-08-ig-reels-simone",
+  "data": "2026-12-08",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-08_ig_reels_simone.mp4",
+  "capa": "nov-dez/midia/2026-12-08_ig_reels_simone_capa.jpg",
+  "legenda": "Se o seu time de compras atende várias obras ao mesmo tempo, boa parte do dia vai embora em planilha, WhatsApp e mapa de cotação digitado à mão.\n\nA Simone explica como a dgenny assume esse operacional para o comprador analisar e negociar melhor com o fornecedor.\n\n#dgenny #compras #construtora #suprimentos",
+  "titulo": "Quem compra para várias obras ao mesmo tempo."
+ },
+ {
+  "id": "2026-12-09-ig-cliente",
+  "data": "2026-12-09",
+  "hora": "12:00",
+  "tipo": "post",
+  "legenda": "Três coisas que todo comprador sabe que deveria fazer e quase nunca sobra tempo:\n\n1. Revisar os preços tabelados antes que fiquem velhos.\n2. Trazer fornecedor novo para a disputa.\n3. Pedir condição melhor ao fornecedor no momento certo, como no fim do mês, quando ele precisa vender.\n\nNão é falta de vontade. É falta de tempo. A dgenny assume a cotação para essas três voltarem para a agenda.\n\n#dgenny #compras #suprimentos #construcaocivil",
+  "titulo": "O que o comprador deixa para depois",
+  "imagem": "nov-dez/midia/2026-12-09_ig_cliente.jpg"
+ },
+ {
+  "id": "2026-12-10-ig-post",
+  "data": "2026-12-10",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-10_ig_estatico_9-minutos.jpg"
+  ],
+  "legenda": "9 minutos até a primeira resposta do fornecedor. Esse é o número da ATR Incorporadora.\n\nO segredo não é pressão, é o canal: a cotação vai pelo WhatsApp, onde o fornecedor já está, sem portal e sem cadastro novo.\n\nA dgenny manda o pedido, cobra quem ficou para trás e organiza as propostas para o comprador decidir.\n\n#dgenny #compras #fornecedores #construcaocivil",
+  "titulo": "9 minutos até a primeira resposta do fornecedor"
+ },
+ {
+  "id": "2026-12-11-ig-carrossel",
+  "data": "2026-12-11",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-11_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-11_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-11_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-11_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-11_ig_carrossel_p5.jpg"
+  ],
+  "legenda": "Numa cotação, cada fornecedor conversa só com você. Ninguém vê a proposta do outro.\n\nDo seu lado, a dgenny junta tudo numa tela só: quem respondeu, quem mandou contraproposta, quem ainda não respondeu, e o preço e o prazo de cada um.\n\nDisputa de verdade, sem expor ninguém. Vale para toda cotação, da reposição pequena à compra estratégica.\n\n#dgenny #compras #fornecedores #cotacao",
+  "titulo": "Os fornecedores não se enxergam. Você enxerga todos."
+ },
+ {
+  "id": "2026-12-11-ig-case-lc-reels",
+  "data": "2026-12-11",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-11_ig_reels_case-lc-achei-que-seria-dificil.mp4",
+  "capa": "nov-dez/midia/2026-12-11_ig_reels_case-lc-achei-que-seria-dificil_capa.jpg",
+  "legenda": "Todo time de compras tem esse receio antes de começar com IA: vai dar trabalho, vou ter que ensinar tudo.\n\nA compradora que mais usa a dgenny na LC Engenharia achou o mesmo. Depois de usar, a resposta foi outra.\n\n#dgenny #comprasnaconstrucao #ia #construcaocivil",
+  "titulo": "Achei que seria muito mais difícil",
+  "pausado": true
+ },
+ {
+  "id": "2026-12-15-ig-carrossel",
+  "data": "2026-12-15",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-15_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-12-15_ig_carrossel_p6.jpg"
+  ],
+  "legenda": "Quando a ATR Incorporadora contratou a dgenny, fez quatro pedidos: não aumentar a equipe de suprimentos, falar com o fornecedor onde ele já está, mapa de cotação em um clique e um time mais analítico.\n\nPasse para o lado e veja o que cada pedido virou em número.\n\nEm um ano, foram R$ 4,05 milhões negociados, com no máximo 3 compradoras trabalhando ao mesmo tempo.\n\n#dgenny #compras #construcaocivil #suprimentos",
+  "titulo": "Case ATR: o que pediu e o que recebeu"
+ },
+ {
+  "id": "2026-12-16-ig-reels-rossoni",
+  "data": "2026-12-16",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-16_ig_reels_rossoni.mp4",
+  "capa": "nov-dez/midia/2026-12-16_ig_reels_rossoni_capa.jpg",
+  "legenda": "Quem cota sempre com os mesmos três fornecedores negocia no escuro.\n\nO Rossoni explica por que ampliar o número de propostas muda a conversa com o fornecedor, e como a IA ajuda a fazer isso sem aumentar o trabalho.\n\nFaz sentido para você? Conta aqui nos comentários.\n\n#dgenny #compras #fornecedores #suprimentos",
+  "titulo": "Mais fornecedores na mesa, mais poder de barganha."
+ },
+ {
+  "id": "2026-12-17-ig-post",
+  "data": "2026-12-17",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-17_ig_estatico_imposto.jpg"
+  ],
+  "legenda": "Qual sai mais barato?\n\nA primeira proposta tem o imposto dentro do preço: R$ 48,00 o metro.\nA segunda parece mais barata, R$ 44,90, mas o IPI de 10% vem por fora. Na conta final, dá R$ 49,39.\n\nQuando cada fornecedor apresenta o preço de um jeito, a comparação só é justa na mesma base: imposto, frete e prazo. É assim que a dgenny monta o mapa de cotação.\n\n#dgenny #compras #cotacao #construcaocivil",
+  "titulo": "O imposto está no preço?"
+ },
+ {
+  "id": "2026-12-18-ig-reels-tierre",
+  "data": "2026-12-18",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-18_ig_reels_tierre.mp4",
+  "capa": "nov-dez/midia/2026-12-18_ig_reels_tierre_capa.jpg",
+  "legenda": "Quanto tempo o seu time de compras gasta só organizando cotação?\n\nTierre trabalha com construtoras e vê sempre o mesmo cenário: comprador sobrecarregado, várias obras pedindo material ao mesmo tempo, cada uma controlada de um jeito.\n\nCom a dgenny, as propostas de todas as obras ficam num só lugar, comparadas e prontas para justificar cada compra.\n\n#dgenny #compras #construtora #suprimentos",
+  "titulo": "Quanto tempo o seu time gasta em cotação?"
+ },
+ {
+  "id": "2026-12-21-ig-carrossel",
+  "data": "2026-12-21",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-21_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2026-12-21_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "Fim de ano é quando o fornecedor fecha, a transportadora reduz e a obra continua.\n\nAntes do recesso, combine por escrito com cada fornecedor:\n1. Último dia para pedir com entrega neste ano.\n2. Último faturamento.\n3. Data de volta.\n4. Entrega programada para as etapas de janeiro.\n5. Quem atende em caso de urgência.\n\nSalve e mande para o time. O checklist completo está no blog da dgenny.\n\n#dgenny #compras #construcaocivil #suprimentos",
+  "titulo": "O que fechar com o fornecedor antes do recesso"
+ },
+ {
+  "id": "2026-12-22-ig-reels-rossoni",
+  "data": "2026-12-22",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2026-12-22_ig_reels_rossoni.mp4",
+  "capa": "nov-dez/midia/2026-12-22_ig_reels_rossoni_capa.jpg",
+  "legenda": "Achar fornecedor novo ainda é um trabalho manual: Google, telefone e conversa com cada empresa.\n\nO Rossoni explica como a IA ajuda o time de compras a encontrar fornecedores, conversar com eles e receber propostas de empresas que você nem conhecia.\n\nTem algum item para o qual você não acha fornecedor? Conta aqui nos comentários.\n\n#dgenny #compras #fornecedores #suprimentos",
+  "titulo": "Fornecedor novo sem passar o dia no Google."
+ },
+ {
+  "id": "2026-12-23-ig-post",
+  "data": "2026-12-23",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-23_ig_boas-festas.jpg"
+  ],
+  "legenda": "Boas festas!\n\nObrigado a cada comprador, fornecedor e obra que andou com a gente em 2026. Que o próximo ano tenha menos urgência e mais tempo para decidir.\n\nEquipe dgenny\n\n#dgenny #boasfestas #compras #construcaocivil",
+  "titulo": "Boas festas"
+ },
+ {
+  "id": "2026-12-28-ig-carrossel",
+  "data": "2026-12-28",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-28_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p7.jpg",
+   "nov-dez/midia/2026-12-28_ig_carrossel_p8.jpg"
+  ],
+  "legenda": "Um ano de ATR Incorporadora com a dgenny, em números.\n\nR$ 4,05 milhões em compras negociadas. 2.524 horas de trabalho poupadas. R$ 1,2 milhão de saving validado, item a item. 92,5% das cotações com disputa real entre fornecedores.\n\nTudo com no máximo 3 compradoras trabalhando ao mesmo tempo. Passe para o lado.\n\n#dgenny #compras #construcaocivil #suprimentos",
+  "titulo": "ATR: um ano em números"
+ },
+ {
+  "id": "2026-12-29-ig-carrossel",
+  "data": "2026-12-29",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2026-12-29_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2026-12-29_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "Plano de compras 2027 em 5 perguntas:\n\n1. O que vou comprar, e quando?\n2. O que pesa mais no custo?\n3. Com quais fornecedores eu conto?\n4. O que fecho em contrato?\n5. Como vou medir?\n\nResponda as cinco antes de janeiro e o ano começa com menos urgência. Salve para revisar com o time.\n\n#dgenny #compras #planejamento #construcaocivil",
+  "titulo": "Plano de compras 2027 em 5 perguntas"
+ },
+ {
+  "id": "2026-12-30-ig-post",
+  "data": "2026-12-30",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2026-12-30_ig_estatico_2027.jpg"
+  ],
+  "legenda": "Que 2027 venha com menos urgência e mais tempo para decidir.\n\nFeliz ano novo, da equipe dgenny.\n\n#dgenny #feliz2027 #compras #construcaocivil",
+  "titulo": "Feliz 2027"
+ },
+ {
+  "id": "2027-01-06-ig-post",
+  "data": "2027-01-06",
+  "hora": "12:00",
+  "tipo": "post",
+  "imagens": [
+   "nov-dez/midia/2027-01-06_ig_estatico_2417.jpg"
+  ],
+  "legenda": "2.417 propostas de fornecedor que ninguém precisou digitar.\n\nNa ATR Incorporadora, 79% delas foram lidas direto da conversa no WhatsApp e equalizadas item a item pela IA da dgenny.\n\nO tempo que ia para a digitação agora vai para a análise.\n\n#dgenny #compras #fornecedores #construcaocivil",
+  "titulo": "2.417 propostas que ninguém precisou digitar"
+ },
+ {
+  "id": "2027-01-07-ig-carrossel",
+  "data": "2027-01-07",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "imagens": [
+   "nov-dez/midia/2027-01-07_ig_carrossel_p1.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p2.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p3.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p4.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p5.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p6.jpg",
+   "nov-dez/midia/2027-01-07_ig_carrossel_p7.jpg"
+  ],
+  "legenda": "Checklist de janeiro do comprador:\n\n1. O que ficou do recesso.\n2. Preços tabelados.\n3. Lead time.\n4. Cronograma das obras.\n5. Fornecedor novo.\n\nPasse para o lado, salve e comece o ano decidindo. A cotação fica com a dgenny.\n\n#dgenny #compras #construcaocivil #suprimentos",
+  "titulo": "Checklist de janeiro do comprador"
+ },
+ {
+  "id": "2027-01-08-ig-reels-rossoni",
+  "data": "2027-01-08",
+  "hora": "12:00",
+  "tipo": "reels",
+  "video": "nov-dez/midia/2027-01-08_ig_reels_rossoni.mp4",
+  "capa": "nov-dez/midia/2027-01-08_ig_reels_rossoni_capa.jpg",
+  "legenda": "Tem muito comprador buscando novas formas de gerar resultado. E a inteligência artificial chegou com tudo.\n\nA partir de dezenas de milhares de negociações feitas pela IA para os mais de 100 clientes da dgenny, o Rossoni conta o que vem por aí: escala, decisão melhor e mais fornecedores na mesa.\n\nSegue a dgenny para acompanhar.\n\n#dgenny #compras #inteligenciaartificial #suprimentos",
+  "titulo": "O comprador como protagonista."
+ }
 ]
