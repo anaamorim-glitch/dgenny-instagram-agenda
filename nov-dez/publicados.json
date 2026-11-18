@@ -70,10 +70,10 @@
     "publicado_em": "2026-11-17T12:01:04-03:00"
   },
   {
-    "id": "2026-11-18-ig-cliente",
+    "id": "2026-11-18-ig-cliente-v1-apagado",
     "media_id": "",
     "link": "https://www.instagram.com/p/Df5ChHKncsV/",
     "publicado_em": "2026-11-18T14:31-03:00",
-    "obs": "publicado manualmente pelo instagram.com (cron das 12h não publicou)"
+    "obs": "publicado manualmente e apagado pela Ana (fora do guia, letras grandes); será refeito"
   }
 ]
