@@ -68,5 +68,12 @@
     "id": "2026-11-17-ig-ret-carrossel",
     "media_id": "18160357588563608",
     "publicado_em": "2026-11-17T12:01:04-03:00"
+  },
+  {
+    "id": "2026-11-18-ig-cliente",
+    "media_id": "",
+    "link": "https://www.instagram.com/p/Df5ChHKncsV/",
+    "publicado_em": "2026-11-18T14:31-03:00",
+    "obs": "publicado manualmente pelo instagram.com (cron das 12h não publicou)"
   }
 ]
