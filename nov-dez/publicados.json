@@ -77,10 +77,17 @@
     "obs": "publicado manualmente e apagado pela Ana (fora do guia, letras grandes); será refeito"
   },
   {
-    "id": "2026-11-18-ig-cliente",
+    "id": "2026-11-18-ig-cliente-v2-apagado",
     "media_id": "",
     "link": "https://www.instagram.com/p/Df5EOl5HSZE/",
     "publicado_em": "2026-11-18T14:41-03:00",
-    "obs": "v2 refeita no padrao do feed (fundo azul + textura, titulos menores), publicada manualmente pelo instagram.com"
+    "obs": "apagado pela Ana: subiu cortado em 1:1 (padrao do instagram.com)"
+  },
+  {
+    "id": "2026-11-18-ig-cliente",
+    "media_id": "",
+    "link": "https://www.instagram.com/p/Df5EpdNnTez/",
+    "publicado_em": "2026-11-18T14:45-03:00",
+    "obs": "v3 em 1080x1440 (3:4), corte Original, manual pelo instagram.com"
   }
 ]
